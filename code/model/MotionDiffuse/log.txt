@@ -1,0 +1,3474 @@
+epoch:   0 niter:     50  inner_iter:   49 
+2m 15s loss_mot_rec: 0.8749 
+epoch:   0 niter:    100  inner_iter:   99 
+4m 27s loss_mot_rec: 0.6123 
+epoch:   0 niter:     50  inner_iter:   49 
+2m 14s loss_mot_rec: 0.8786 
+epoch:   0 niter:    100  inner_iter:   99 
+4m 27s loss_mot_rec: 0.6212 
+epoch:   0 niter:    150  inner_iter:  149 
+6m 28s loss_mot_rec: 0.4189 
+epoch:   0 niter:    200  inner_iter:  199 
+8m 39s loss_mot_rec: 0.2948 
+epoch:   0 niter:    250  inner_iter:  249 
+10m 52s loss_mot_rec: 0.2225 
+epoch:   0 niter:    300  inner_iter:  299 
+13m 0s loss_mot_rec: 0.1792 
+epoch:   0 niter:    350  inner_iter:  349 
+15m 1s loss_mot_rec: 0.1593 
+epoch:   0 niter:    400  inner_iter:  399 
+17m 12s loss_mot_rec: 0.1412 
+epoch:   0 niter:    450  inner_iter:  449 
+19m 43s loss_mot_rec: 0.1243 
+epoch:   0 niter:    500  inner_iter:  499 
+21m 42s loss_mot_rec: 0.1175 
+epoch:   0 niter:     50  inner_iter:   49 
+5m 27s loss_mot_rec: 0.8688 
+epoch:   0 niter:    100  inner_iter:   99 
+10m 37s loss_mot_rec: 0.6099 
+epoch:   0 niter:    150  inner_iter:  149 
+15m 59s loss_mot_rec: 0.4216 
+epoch:   0 niter:    200  inner_iter:  199 
+21m 11s loss_mot_rec: 0.3027 
+epoch:   0 niter:    250  inner_iter:  249 
+26m 33s loss_mot_rec: 0.2335 
+epoch:   0 niter:    300  inner_iter:  299 
+31m 46s loss_mot_rec: 0.1835 
+epoch:   0 niter:    350  inner_iter:  349 
+37m 4s loss_mot_rec: 0.1591 
+epoch:   0 niter:    400  inner_iter:  399 
+42m 28s loss_mot_rec: 0.1416 
+epoch:   0 niter:    450  inner_iter:  449 
+47m 42s loss_mot_rec: 0.1274 
+epoch:   0 niter:    500  inner_iter:  499 
+53m 6s loss_mot_rec: 0.1146 
+epoch:   0 niter:     50  inner_iter:   49 
+5m 25s loss_mot_rec: 0.8698 
+epoch:   0 niter:    100  inner_iter:   99 
+10m 40s loss_mot_rec: 0.6102 
+epoch:   0 niter:    150  inner_iter:  149 
+16m 1s loss_mot_rec: 0.4220 
+epoch:   0 niter:    200  inner_iter:  199 
+21m 16s loss_mot_rec: 0.3037 
+epoch:   0 niter:    250  inner_iter:  249 
+26m 23s loss_mot_rec: 0.2257 
+epoch:   0 niter:    300  inner_iter:  299 
+31m 37s loss_mot_rec: 0.1869 
+epoch:   0 niter:    350  inner_iter:  349 
+36m 57s loss_mot_rec: 0.1581 
+epoch:   0 niter:    400  inner_iter:  399 
+42m 9s loss_mot_rec: 0.1368 
+epoch:   0 niter:    450  inner_iter:  449 
+47m 32s loss_mot_rec: 0.1232 
+epoch:   0 niter:    500  inner_iter:  499 
+52m 40s loss_mot_rec: 0.1188 
+epoch:   0 niter:     50  inner_iter:   49 
+5m 59s loss_mot_rec: 0.8748 
+epoch:   0 niter:    100  inner_iter:   99 
+12m 10s loss_mot_rec: 0.6148 
+epoch:   0 niter:    150  inner_iter:  149 
+18m 12s loss_mot_rec: 0.4182 
+epoch:   0 niter:    200  inner_iter:  199 
+24m 16s loss_mot_rec: 0.2952 
+epoch:   0 niter:    250  inner_iter:  249 
+30m 21s loss_mot_rec: 0.2222 
+epoch:   0 niter:    300  inner_iter:  299 
+34m 11s loss_mot_rec: 0.1804 
+epoch:   0 niter:    350  inner_iter:  349 
+37m 3s loss_mot_rec: 0.1579 
+epoch:   0 niter:    400  inner_iter:  399 
+39m 40s loss_mot_rec: 0.1444 
+epoch:   0 niter:    450  inner_iter:  449 
+42m 32s loss_mot_rec: 0.1343 
+epoch:   0 niter:    500  inner_iter:  499 
+45m 25s loss_mot_rec: 0.1123 
+epoch:   0 niter:     50  inner_iter:   49 
+0m 42s loss_mot_rec: 0.8710 
+epoch:   0 niter:    100  inner_iter:   99 
+1m 22s loss_mot_rec: 0.6085 
+epoch:   0 niter:     50  inner_iter:   49 
+0m 41s loss_mot_rec: 0.8733 
+epoch:   0 niter:    100  inner_iter:   99 
+1m 22s loss_mot_rec: 0.6103 
+epoch:   0 niter:    150  inner_iter:  149 
+2m 2s loss_mot_rec: 0.4184 
+epoch:   0 niter:    200  inner_iter:  199 
+2m 42s loss_mot_rec: 0.2958 
+epoch:   0 niter:    250  inner_iter:  249 
+3m 23s loss_mot_rec: 0.2243 
+epoch:   0 niter:    300  inner_iter:  299 
+4m 3s loss_mot_rec: 0.1816 
+epoch:   0 niter:    350  inner_iter:  349 
+4m 43s loss_mot_rec: 0.1588 
+epoch:   0 niter:    400  inner_iter:  399 
+5m 24s loss_mot_rec: 0.1424 
+epoch:   0 niter:    450  inner_iter:  449 
+6m 4s loss_mot_rec: 0.1260 
+epoch:   0 niter:    500  inner_iter:  499 
+6m 44s loss_mot_rec: 0.1129 
+epoch:   0 niter:    550  inner_iter:  549 
+7m 25s loss_mot_rec: 0.1088 
+epoch:   0 niter:    600  inner_iter:  599 
+8m 5s loss_mot_rec: 0.0975 
+epoch:   0 niter:    650  inner_iter:  649 
+9m 0s loss_mot_rec: 0.0910 
+epoch:   0 niter:    700  inner_iter:  699 
+9m 40s loss_mot_rec: 0.0874 
+epoch:   0 niter:    750  inner_iter:  749 
+10m 21s loss_mot_rec: 0.0798 
+epoch:   0 niter:    800  inner_iter:  799 
+11m 1s loss_mot_rec: 0.0789 
+epoch:   0 niter:    850  inner_iter:  849 
+11m 42s loss_mot_rec: 0.0758 
+epoch:   1 niter:    900  inner_iter:   41 
+12m 27s loss_mot_rec: 0.0735 
+epoch:   1 niter:    950  inner_iter:   91 
+13m 7s loss_mot_rec: 0.0692 
+epoch:   1 niter:   1000  inner_iter:  141 
+13m 47s loss_mot_rec: 0.0696 
+epoch:   1 niter:   1050  inner_iter:  191 
+14m 28s loss_mot_rec: 0.0666 
+epoch:   1 niter:   1100  inner_iter:  241 
+15m 8s loss_mot_rec: 0.0668 
+epoch:   1 niter:   1150  inner_iter:  291 
+15m 48s loss_mot_rec: 0.0664 
+epoch:   1 niter:   1200  inner_iter:  341 
+16m 29s loss_mot_rec: 0.0657 
+epoch:   1 niter:   1250  inner_iter:  391 
+17m 9s loss_mot_rec: 0.0635 
+epoch:   1 niter:   1300  inner_iter:  441 
+17m 50s loss_mot_rec: 0.0606 
+epoch:   1 niter:   1350  inner_iter:  491 
+18m 30s loss_mot_rec: 0.0608 
+epoch:   1 niter:   1400  inner_iter:  541 
+19m 10s loss_mot_rec: 0.0590 
+epoch:   1 niter:   1450  inner_iter:  591 
+19m 51s loss_mot_rec: 0.0591 
+epoch:   1 niter:   1500  inner_iter:  641 
+20m 32s loss_mot_rec: 0.0575 
+epoch:   1 niter:   1550  inner_iter:  691 
+21m 12s loss_mot_rec: 0.0577 
+epoch:   1 niter:   1600  inner_iter:  741 
+22m 9s loss_mot_rec: 0.0604 
+epoch:   1 niter:   1650  inner_iter:  791 
+22m 49s loss_mot_rec: 0.0545 
+epoch:   1 niter:   1700  inner_iter:  841 
+23m 30s loss_mot_rec: 0.0563 
+epoch:   2 niter:   1750  inner_iter:   33 
+24m 30s loss_mot_rec: 0.0578 
+epoch:   2 niter:   1800  inner_iter:   83 
+25m 10s loss_mot_rec: 0.0546 
+epoch:   2 niter:   1850  inner_iter:  133 
+25m 51s loss_mot_rec: 0.0566 
+epoch:   2 niter:   1900  inner_iter:  183 
+26m 33s loss_mot_rec: 0.0560 
+epoch:   2 niter:   1950  inner_iter:  233 
+27m 13s loss_mot_rec: 0.0536 
+epoch:   2 niter:   2000  inner_iter:  283 
+27m 54s loss_mot_rec: 0.0537 
+epoch:   2 niter:   2050  inner_iter:  333 
+28m 34s loss_mot_rec: 0.0562 
+epoch:   2 niter:   2100  inner_iter:  383 
+29m 15s loss_mot_rec: 0.0522 
+epoch:   2 niter:   2150  inner_iter:  433 
+29m 56s loss_mot_rec: 0.0535 
+epoch:   2 niter:   2200  inner_iter:  483 
+30m 36s loss_mot_rec: 0.0519 
+epoch:   2 niter:   2250  inner_iter:  533 
+31m 17s loss_mot_rec: 0.0519 
+epoch:   2 niter:   2300  inner_iter:  583 
+31m 57s loss_mot_rec: 0.0504 
+epoch:   2 niter:   2350  inner_iter:  633 
+32m 38s loss_mot_rec: 0.0514 
+epoch:   2 niter:   2400  inner_iter:  683 
+33m 19s loss_mot_rec: 0.0520 
+epoch:   2 niter:   2450  inner_iter:  733 
+33m 59s loss_mot_rec: 0.0524 
+epoch:   2 niter:   2500  inner_iter:  783 
+34m 39s loss_mot_rec: 0.0505 
+epoch:   2 niter:   2550  inner_iter:  833 
+35m 20s loss_mot_rec: 0.0505 
+epoch:   3 niter:   2600  inner_iter:   25 
+36m 20s loss_mot_rec: 0.0493 
+epoch:   3 niter:   2650  inner_iter:   75 
+37m 0s loss_mot_rec: 0.0518 
+epoch:   3 niter:   2700  inner_iter:  125 
+37m 41s loss_mot_rec: 0.0504 
+epoch:   3 niter:   2750  inner_iter:  175 
+38m 22s loss_mot_rec: 0.0482 
+epoch:   3 niter:   2800  inner_iter:  225 
+39m 2s loss_mot_rec: 0.0500 
+epoch:   3 niter:   2850  inner_iter:  275 
+39m 43s loss_mot_rec: 0.0477 
+epoch:   3 niter:   2900  inner_iter:  325 
+40m 24s loss_mot_rec: 0.0484 
+epoch:   3 niter:   2950  inner_iter:  375 
+41m 4s loss_mot_rec: 0.0488 
+epoch:   3 niter:   3000  inner_iter:  425 
+41m 45s loss_mot_rec: 0.0505 
+epoch:   3 niter:   3050  inner_iter:  475 
+42m 26s loss_mot_rec: 0.0473 
+epoch:   3 niter:   3100  inner_iter:  525 
+43m 6s loss_mot_rec: 0.0484 
+epoch:   3 niter:   3150  inner_iter:  575 
+43m 47s loss_mot_rec: 0.0472 
+epoch:   3 niter:   3200  inner_iter:  625 
+44m 27s loss_mot_rec: 0.0456 
+epoch:   3 niter:   3250  inner_iter:  675 
+45m 8s loss_mot_rec: 0.0459 
+epoch:   3 niter:   3300  inner_iter:  725 
+45m 48s loss_mot_rec: 0.0462 
+epoch:   3 niter:   3350  inner_iter:  775 
+46m 29s loss_mot_rec: 0.0495 
+epoch:   3 niter:   3400  inner_iter:  825 
+47m 10s loss_mot_rec: 0.0455 
+epoch:   4 niter:   3450  inner_iter:   17 
+48m 8s loss_mot_rec: 0.0473 
+epoch:   4 niter:   3500  inner_iter:   67 
+48m 49s loss_mot_rec: 0.0483 
+epoch:   4 niter:   3550  inner_iter:  117 
+49m 45s loss_mot_rec: 0.0471 
+epoch:   4 niter:   3600  inner_iter:  167 
+50m 25s loss_mot_rec: 0.0481 
+epoch:   4 niter:   3650  inner_iter:  217 
+51m 6s loss_mot_rec: 0.0446 
+epoch:   4 niter:   3700  inner_iter:  267 
+51m 46s loss_mot_rec: 0.0462 
+epoch:   4 niter:   3750  inner_iter:  317 
+52m 27s loss_mot_rec: 0.0434 
+epoch:   4 niter:   3800  inner_iter:  367 
+53m 7s loss_mot_rec: 0.0466 
+epoch:   4 niter:   3850  inner_iter:  417 
+53m 48s loss_mot_rec: 0.0470 
+epoch:   4 niter:   3900  inner_iter:  467 
+54m 28s loss_mot_rec: 0.0458 
+epoch:   4 niter:   3950  inner_iter:  517 
+55m 9s loss_mot_rec: 0.0461 
+epoch:   4 niter:   4000  inner_iter:  567 
+55m 49s loss_mot_rec: 0.0449 
+epoch:   4 niter:   4050  inner_iter:  617 
+56m 30s loss_mot_rec: 0.0463 
+epoch:   4 niter:   4100  inner_iter:  667 
+57m 10s loss_mot_rec: 0.0455 
+epoch:   4 niter:   4150  inner_iter:  717 
+57m 50s loss_mot_rec: 0.0448 
+epoch:   4 niter:   4200  inner_iter:  767 
+58m 31s loss_mot_rec: 0.0448 
+epoch:   4 niter:   4250  inner_iter:  817 
+59m 11s loss_mot_rec: 0.0430 
+epoch:   5 niter:   4300  inner_iter:    9 
+60m 9s loss_mot_rec: 0.0419 
+epoch:   5 niter:   4350  inner_iter:   59 
+60m 50s loss_mot_rec: 0.0450 
+epoch:   5 niter:   4400  inner_iter:  109 
+61m 31s loss_mot_rec: 0.0435 
+epoch:   5 niter:   4450  inner_iter:  159 
+62m 26s loss_mot_rec: 0.0411 
+epoch:   5 niter:   4500  inner_iter:  209 
+63m 8s loss_mot_rec: 0.0455 
+epoch:   5 niter:   4550  inner_iter:  259 
+63m 50s loss_mot_rec: 0.0437 
+epoch:   5 niter:   4600  inner_iter:  309 
+64m 32s loss_mot_rec: 0.0423 
+epoch:   5 niter:   4650  inner_iter:  359 
+65m 14s loss_mot_rec: 0.0439 
+epoch:   5 niter:   4700  inner_iter:  409 
+65m 56s loss_mot_rec: 0.0413 
+epoch:   5 niter:   4750  inner_iter:  459 
+66m 37s loss_mot_rec: 0.0430 
+epoch:   5 niter:   4800  inner_iter:  509 
+67m 18s loss_mot_rec: 0.0414 
+epoch:   5 niter:   4850  inner_iter:  559 
+68m 0s loss_mot_rec: 0.0423 
+epoch:   5 niter:   4900  inner_iter:  609 
+68m 42s loss_mot_rec: 0.0443 
+epoch:   5 niter:   4950  inner_iter:  659 
+69m 23s loss_mot_rec: 0.0421 
+epoch:   5 niter:   5000  inner_iter:  709 
+70m 5s loss_mot_rec: 0.0410 
+epoch:   5 niter:   5050  inner_iter:  759 
+70m 46s loss_mot_rec: 0.0416 
+epoch:   5 niter:   5100  inner_iter:  809 
+71m 27s loss_mot_rec: 0.0421 
+epoch:   6 niter:   5150  inner_iter:    1 
+72m 43s loss_mot_rec: 0.0423 
+epoch:   6 niter:   5200  inner_iter:   51 
+73m 23s loss_mot_rec: 0.0396 
+epoch:   6 niter:   5250  inner_iter:  101 
+74m 4s loss_mot_rec: 0.0425 
+epoch:   6 niter:   5300  inner_iter:  151 
+74m 46s loss_mot_rec: 0.0390 
+epoch:   6 niter:   5350  inner_iter:  201 
+75m 28s loss_mot_rec: 0.0418 
+epoch:   6 niter:   5400  inner_iter:  251 
+76m 9s loss_mot_rec: 0.0406 
+epoch:   6 niter:   5450  inner_iter:  301 
+76m 50s loss_mot_rec: 0.0411 
+epoch:   6 niter:   5500  inner_iter:  351 
+77m 31s loss_mot_rec: 0.0401 
+epoch:   6 niter:   5550  inner_iter:  401 
+78m 12s loss_mot_rec: 0.0412 
+epoch:   6 niter:   5600  inner_iter:  451 
+78m 52s loss_mot_rec: 0.0390 
+epoch:   6 niter:   5650  inner_iter:  501 
+79m 35s loss_mot_rec: 0.0410 
+epoch:   6 niter:   5700  inner_iter:  551 
+80m 16s loss_mot_rec: 0.0420 
+epoch:   6 niter:   5750  inner_iter:  601 
+80m 57s loss_mot_rec: 0.0427 
+epoch:   6 niter:   5800  inner_iter:  651 
+81m 37s loss_mot_rec: 0.0381 
+epoch:   6 niter:   5850  inner_iter:  701 
+82m 34s loss_mot_rec: 0.0412 
+epoch:   6 niter:   5900  inner_iter:  751 
+83m 14s loss_mot_rec: 0.0414 
+epoch:   6 niter:   5950  inner_iter:  801 
+83m 55s loss_mot_rec: 0.0409 
+epoch:   6 niter:   6000  inner_iter:  851 
+84m 35s loss_mot_rec: 0.0402 
+epoch:   7 niter:   6050  inner_iter:   43 
+85m 34s loss_mot_rec: 0.0392 
+epoch:   7 niter:   6100  inner_iter:   93 
+86m 14s loss_mot_rec: 0.0401 
+epoch:   7 niter:   6150  inner_iter:  143 
+86m 55s loss_mot_rec: 0.0403 
+epoch:   7 niter:   6200  inner_iter:  193 
+87m 36s loss_mot_rec: 0.0393 
+epoch:   7 niter:   6250  inner_iter:  243 
+88m 17s loss_mot_rec: 0.0409 
+epoch:   7 niter:   6300  inner_iter:  293 
+88m 58s loss_mot_rec: 0.0427 
+epoch:   7 niter:   6350  inner_iter:  343 
+89m 40s loss_mot_rec: 0.0395 
+epoch:   7 niter:   6400  inner_iter:  393 
+90m 21s loss_mot_rec: 0.0404 
+epoch:   7 niter:   6450  inner_iter:  443 
+91m 2s loss_mot_rec: 0.0398 
+epoch:   7 niter:   6500  inner_iter:  493 
+91m 44s loss_mot_rec: 0.0388 
+epoch:   7 niter:   6550  inner_iter:  543 
+92m 25s loss_mot_rec: 0.0396 
+epoch:   7 niter:   6600  inner_iter:  593 
+93m 7s loss_mot_rec: 0.0394 
+epoch:   7 niter:   6650  inner_iter:  643 
+93m 49s loss_mot_rec: 0.0401 
+epoch:   7 niter:   6700  inner_iter:  693 
+94m 30s loss_mot_rec: 0.0398 
+epoch:   7 niter:   6750  inner_iter:  743 
+95m 27s loss_mot_rec: 0.0430 
+epoch:   7 niter:   6800  inner_iter:  793 
+96m 9s loss_mot_rec: 0.0379 
+epoch:   7 niter:   6850  inner_iter:  843 
+96m 50s loss_mot_rec: 0.0409 
+epoch:   8 niter:   6900  inner_iter:   35 
+97m 49s loss_mot_rec: 0.0407 
+epoch:   8 niter:   6950  inner_iter:   85 
+98m 31s loss_mot_rec: 0.0381 
+epoch:   8 niter:   7000  inner_iter:  135 
+99m 13s loss_mot_rec: 0.0377 
+epoch:   8 niter:   7050  inner_iter:  185 
+99m 55s loss_mot_rec: 0.0360 
+epoch:   8 niter:   7100  inner_iter:  235 
+100m 37s loss_mot_rec: 0.0363 
+epoch:   8 niter:   7150  inner_iter:  285 
+101m 19s loss_mot_rec: 0.0393 
+epoch:   8 niter:   7200  inner_iter:  335 
+102m 0s loss_mot_rec: 0.0389 
+epoch:   8 niter:   7250  inner_iter:  385 
+102m 43s loss_mot_rec: 0.0391 
+epoch:   8 niter:   7300  inner_iter:  435 
+103m 24s loss_mot_rec: 0.0381 
+epoch:   8 niter:   7350  inner_iter:  485 
+104m 5s loss_mot_rec: 0.0362 
+epoch:   8 niter:   7400  inner_iter:  535 
+104m 46s loss_mot_rec: 0.0381 
+epoch:   8 niter:   7450  inner_iter:  585 
+105m 27s loss_mot_rec: 0.0388 
+epoch:   8 niter:   7500  inner_iter:  635 
+106m 7s loss_mot_rec: 0.0398 
+epoch:   8 niter:   7550  inner_iter:  685 
+106m 48s loss_mot_rec: 0.0383 
+epoch:   8 niter:   7600  inner_iter:  735 
+107m 30s loss_mot_rec: 0.0384 
+epoch:   8 niter:   7650  inner_iter:  785 
+108m 12s loss_mot_rec: 0.0381 
+epoch:   8 niter:   7700  inner_iter:  835 
+108m 52s loss_mot_rec: 0.0375 
+epoch:   9 niter:   7750  inner_iter:   27 
+109m 51s loss_mot_rec: 0.0383 
+epoch:   9 niter:   7800  inner_iter:   77 
+110m 34s loss_mot_rec: 0.0371 
+epoch:   9 niter:   7850  inner_iter:  127 
+111m 16s loss_mot_rec: 0.0370 
+epoch:   9 niter:   7900  inner_iter:  177 
+111m 58s loss_mot_rec: 0.0369 
+epoch:   9 niter:   7950  inner_iter:  227 
+112m 40s loss_mot_rec: 0.0384 
+epoch:   9 niter:   8000  inner_iter:  277 
+113m 23s loss_mot_rec: 0.0366 
+epoch:   9 niter:   8050  inner_iter:  327 
+114m 6s loss_mot_rec: 0.0370 
+epoch:   9 niter:   8100  inner_iter:  377 
+114m 49s loss_mot_rec: 0.0377 
+epoch:   9 niter:   8150  inner_iter:  427 
+115m 31s loss_mot_rec: 0.0366 
+epoch:   9 niter:   8200  inner_iter:  477 
+116m 12s loss_mot_rec: 0.0379 
+epoch:   9 niter:   8250  inner_iter:  527 
+116m 54s loss_mot_rec: 0.0369 
+epoch:   9 niter:   8300  inner_iter:  577 
+117m 35s loss_mot_rec: 0.0375 
+epoch:   9 niter:   8350  inner_iter:  627 
+118m 17s loss_mot_rec: 0.0363 
+epoch:   9 niter:   8400  inner_iter:  677 
+118m 59s loss_mot_rec: 0.0392 
+epoch:   9 niter:   8450  inner_iter:  727 
+119m 40s loss_mot_rec: 0.0362 
+epoch:   9 niter:   8500  inner_iter:  777 
+120m 21s loss_mot_rec: 0.0372 
+epoch:   9 niter:   8550  inner_iter:  827 
+121m 3s loss_mot_rec: 0.0350 
+epoch:  10 niter:   8600  inner_iter:   19 
+122m 3s loss_mot_rec: 0.0357 
+epoch:  10 niter:   8650  inner_iter:   69 
+122m 44s loss_mot_rec: 0.0374 
+epoch:  10 niter:   8700  inner_iter:  119 
+123m 25s loss_mot_rec: 0.0380 
+epoch:  10 niter:   8750  inner_iter:  169 
+124m 6s loss_mot_rec: 0.0384 
+epoch:  10 niter:   8800  inner_iter:  219 
+124m 48s loss_mot_rec: 0.0354 
+epoch:  10 niter:   8850  inner_iter:  269 
+125m 30s loss_mot_rec: 0.0350 
+epoch:  10 niter:   8900  inner_iter:  319 
+126m 12s loss_mot_rec: 0.0353 
+epoch:  10 niter:   8950  inner_iter:  369 
+126m 54s loss_mot_rec: 0.0370 
+epoch:  10 niter:   9000  inner_iter:  419 
+127m 35s loss_mot_rec: 0.0338 
+epoch:  10 niter:   9050  inner_iter:  469 
+128m 17s loss_mot_rec: 0.0342 
+epoch:  10 niter:   9100  inner_iter:  519 
+128m 58s loss_mot_rec: 0.0361 
+epoch:  10 niter:   9150  inner_iter:  569 
+129m 39s loss_mot_rec: 0.0369 
+epoch:  10 niter:   9200  inner_iter:  619 
+130m 20s loss_mot_rec: 0.0361 
+epoch:  10 niter:   9250  inner_iter:  669 
+131m 2s loss_mot_rec: 0.0369 
+epoch:  10 niter:   9300  inner_iter:  719 
+131m 44s loss_mot_rec: 0.0353 
+epoch:  10 niter:   9350  inner_iter:  769 
+132m 25s loss_mot_rec: 0.0365 
+epoch:  10 niter:   9400  inner_iter:  819 
+133m 7s loss_mot_rec: 0.0360 
+epoch:  11 niter:   9450  inner_iter:   11 
+134m 9s loss_mot_rec: 0.0359 
+epoch:  11 niter:   9500  inner_iter:   61 
+134m 51s loss_mot_rec: 0.0351 
+epoch:  11 niter:   9550  inner_iter:  111 
+135m 32s loss_mot_rec: 0.0350 
+epoch:  11 niter:   9600  inner_iter:  161 
+136m 15s loss_mot_rec: 0.0370 
+epoch:  11 niter:   9650  inner_iter:  211 
+136m 58s loss_mot_rec: 0.0358 
+epoch:  11 niter:   9700  inner_iter:  261 
+137m 41s loss_mot_rec: 0.0363 
+epoch:  11 niter:   9750  inner_iter:  311 
+138m 22s loss_mot_rec: 0.0345 
+epoch:  11 niter:   9800  inner_iter:  361 
+139m 5s loss_mot_rec: 0.0373 
+epoch:  11 niter:   9850  inner_iter:  411 
+139m 47s loss_mot_rec: 0.0349 
+epoch:  11 niter:   9900  inner_iter:  461 
+140m 28s loss_mot_rec: 0.0356 
+epoch:  11 niter:   9950  inner_iter:  511 
+141m 9s loss_mot_rec: 0.0341 
+epoch:  11 niter:  10000  inner_iter:  561 
+141m 50s loss_mot_rec: 0.0344 
+epoch:  11 niter:  10050  inner_iter:  611 
+142m 31s loss_mot_rec: 0.0356 
+epoch:  11 niter:  10100  inner_iter:  661 
+143m 12s loss_mot_rec: 0.0359 
+epoch:  11 niter:  10150  inner_iter:  711 
+143m 54s loss_mot_rec: 0.0357 
+epoch:  11 niter:  10200  inner_iter:  761 
+144m 36s loss_mot_rec: 0.0345 
+epoch:  11 niter:  10250  inner_iter:  811 
+145m 18s loss_mot_rec: 0.0345 
+epoch:  12 niter:  10300  inner_iter:    3 
+146m 18s loss_mot_rec: 0.0372 
+epoch:  12 niter:  10350  inner_iter:   53 
+146m 59s loss_mot_rec: 0.0333 
+epoch:  12 niter:  10400  inner_iter:  103 
+147m 40s loss_mot_rec: 0.0349 
+epoch:  12 niter:  10450  inner_iter:  153 
+148m 22s loss_mot_rec: 0.0355 
+epoch:  12 niter:  10500  inner_iter:  203 
+149m 3s loss_mot_rec: 0.0338 
+epoch:  12 niter:  10550  inner_iter:  253 
+149m 45s loss_mot_rec: 0.0344 
+epoch:  12 niter:  10600  inner_iter:  303 
+150m 27s loss_mot_rec: 0.0343 
+epoch:  12 niter:  10650  inner_iter:  353 
+151m 8s loss_mot_rec: 0.0357 
+epoch:  12 niter:  10700  inner_iter:  403 
+151m 50s loss_mot_rec: 0.0341 
+epoch:  12 niter:  10750  inner_iter:  453 
+152m 31s loss_mot_rec: 0.0330 
+epoch:  12 niter:  10800  inner_iter:  503 
+153m 13s loss_mot_rec: 0.0330 
+epoch:  12 niter:  10850  inner_iter:  553 
+153m 55s loss_mot_rec: 0.0327 
+epoch:  12 niter:  10900  inner_iter:  603 
+154m 37s loss_mot_rec: 0.0337 
+epoch:  12 niter:  10950  inner_iter:  653 
+155m 19s loss_mot_rec: 0.0352 
+epoch:  12 niter:  11000  inner_iter:  703 
+156m 1s loss_mot_rec: 0.0336 
+epoch:  12 niter:  11050  inner_iter:  753 
+156m 43s loss_mot_rec: 0.0332 
+epoch:  12 niter:  11100  inner_iter:  803 
+157m 26s loss_mot_rec: 0.0342 
+epoch:  12 niter:  11150  inner_iter:  853 
+158m 8s loss_mot_rec: 0.0341 
+epoch:  13 niter:  11200  inner_iter:   45 
+159m 6s loss_mot_rec: 0.0345 
+epoch:  13 niter:  11250  inner_iter:   95 
+159m 49s loss_mot_rec: 0.0339 
+epoch:  13 niter:  11300  inner_iter:  145 
+160m 31s loss_mot_rec: 0.0357 
+epoch:  13 niter:  11350  inner_iter:  195 
+161m 12s loss_mot_rec: 0.0362 
+epoch:  13 niter:  11400  inner_iter:  245 
+161m 54s loss_mot_rec: 0.0336 
+epoch:  13 niter:  11450  inner_iter:  295 
+162m 34s loss_mot_rec: 0.0342 
+epoch:  13 niter:  11500  inner_iter:  345 
+163m 15s loss_mot_rec: 0.0343 
+epoch:  13 niter:  11550  inner_iter:  395 
+163m 55s loss_mot_rec: 0.0352 
+epoch:  13 niter:  11600  inner_iter:  445 
+164m 36s loss_mot_rec: 0.0333 
+epoch:  13 niter:  11650  inner_iter:  495 
+165m 16s loss_mot_rec: 0.0326 
+epoch:  13 niter:  11700  inner_iter:  545 
+165m 57s loss_mot_rec: 0.0348 
+epoch:  13 niter:  11750  inner_iter:  595 
+166m 37s loss_mot_rec: 0.0345 
+epoch:  13 niter:  11800  inner_iter:  645 
+167m 17s loss_mot_rec: 0.0340 
+epoch:  13 niter:  11850  inner_iter:  695 
+167m 58s loss_mot_rec: 0.0341 
+epoch:  13 niter:  11900  inner_iter:  745 
+168m 38s loss_mot_rec: 0.0338 
+epoch:  13 niter:  11950  inner_iter:  795 
+169m 20s loss_mot_rec: 0.0318 
+epoch:  13 niter:  12000  inner_iter:  845 
+170m 2s loss_mot_rec: 0.0335 
+epoch:  14 niter:  12050  inner_iter:   37 
+170m 59s loss_mot_rec: 0.0322 
+epoch:  14 niter:  12100  inner_iter:   87 
+171m 40s loss_mot_rec: 0.0340 
+epoch:  14 niter:  12150  inner_iter:  137 
+172m 20s loss_mot_rec: 0.0330 
+epoch:  14 niter:  12200  inner_iter:  187 
+173m 1s loss_mot_rec: 0.0332 
+epoch:  14 niter:  12250  inner_iter:  237 
+173m 42s loss_mot_rec: 0.0338 
+epoch:  14 niter:  12300  inner_iter:  287 
+174m 23s loss_mot_rec: 0.0340 
+epoch:  14 niter:  12350  inner_iter:  337 
+175m 4s loss_mot_rec: 0.0335 
+epoch:  14 niter:  12400  inner_iter:  387 
+175m 45s loss_mot_rec: 0.0345 
+epoch:  14 niter:  12450  inner_iter:  437 
+176m 27s loss_mot_rec: 0.0319 
+epoch:  14 niter:  12500  inner_iter:  487 
+177m 8s loss_mot_rec: 0.0330 
+epoch:  14 niter:  12550  inner_iter:  537 
+177m 50s loss_mot_rec: 0.0323 
+epoch:  14 niter:  12600  inner_iter:  587 
+178m 32s loss_mot_rec: 0.0333 
+epoch:  14 niter:  12650  inner_iter:  637 
+179m 14s loss_mot_rec: 0.0331 
+epoch:  14 niter:  12700  inner_iter:  687 
+179m 56s loss_mot_rec: 0.0332 
+epoch:  14 niter:  12750  inner_iter:  737 
+180m 37s loss_mot_rec: 0.0339 
+epoch:  14 niter:  12800  inner_iter:  787 
+181m 17s loss_mot_rec: 0.0347 
+epoch:  14 niter:  12850  inner_iter:  837 
+181m 58s loss_mot_rec: 0.0315 
+epoch:  15 niter:  12900  inner_iter:   29 
+182m 57s loss_mot_rec: 0.0343 
+epoch:  15 niter:  12950  inner_iter:   79 
+183m 38s loss_mot_rec: 0.0319 
+epoch:  15 niter:  13000  inner_iter:  129 
+184m 19s loss_mot_rec: 0.0333 
+epoch:  15 niter:  13050  inner_iter:  179 
+185m 0s loss_mot_rec: 0.0317 
+epoch:  15 niter:  13100  inner_iter:  229 
+185m 40s loss_mot_rec: 0.0327 
+epoch:  15 niter:  13150  inner_iter:  279 
+186m 21s loss_mot_rec: 0.0316 
+epoch:  15 niter:  13200  inner_iter:  329 
+187m 3s loss_mot_rec: 0.0359 
+epoch:  15 niter:  13250  inner_iter:  379 
+187m 45s loss_mot_rec: 0.0350 
+epoch:  15 niter:  13300  inner_iter:  429 
+188m 26s loss_mot_rec: 0.0339 
+epoch:  15 niter:  13350  inner_iter:  479 
+189m 6s loss_mot_rec: 0.0314 
+epoch:  15 niter:  13400  inner_iter:  529 
+189m 47s loss_mot_rec: 0.0328 
+epoch:  15 niter:  13450  inner_iter:  579 
+190m 28s loss_mot_rec: 0.0327 
+epoch:  15 niter:  13500  inner_iter:  629 
+191m 8s loss_mot_rec: 0.0312 
+epoch:  15 niter:  13550  inner_iter:  679 
+191m 49s loss_mot_rec: 0.0327 
+epoch:  15 niter:  13600  inner_iter:  729 
+192m 29s loss_mot_rec: 0.0316 
+epoch:  15 niter:  13650  inner_iter:  779 
+193m 10s loss_mot_rec: 0.0322 
+epoch:  15 niter:  13700  inner_iter:  829 
+193m 50s loss_mot_rec: 0.0334 
+epoch:  16 niter:  13750  inner_iter:   21 
+194m 52s loss_mot_rec: 0.0313 
+epoch:  16 niter:  13800  inner_iter:   71 
+195m 33s loss_mot_rec: 0.0316 
+epoch:  16 niter:  13850  inner_iter:  121 
+196m 16s loss_mot_rec: 0.0330 
+epoch:  16 niter:  13900  inner_iter:  171 
+196m 59s loss_mot_rec: 0.0322 
+epoch:  16 niter:  13950  inner_iter:  221 
+197m 42s loss_mot_rec: 0.0316 
+epoch:  16 niter:  14000  inner_iter:  271 
+198m 23s loss_mot_rec: 0.0319 
+epoch:  16 niter:  14050  inner_iter:  321 
+199m 4s loss_mot_rec: 0.0328 
+epoch:  16 niter:  14100  inner_iter:  371 
+199m 45s loss_mot_rec: 0.0315 
+epoch:  16 niter:  14150  inner_iter:  421 
+200m 25s loss_mot_rec: 0.0323 
+epoch:  16 niter:  14200  inner_iter:  471 
+201m 5s loss_mot_rec: 0.0304 
+epoch:  16 niter:  14250  inner_iter:  521 
+201m 46s loss_mot_rec: 0.0318 
+epoch:  16 niter:  14300  inner_iter:  571 
+202m 26s loss_mot_rec: 0.0318 
+epoch:  16 niter:  14350  inner_iter:  621 
+203m 6s loss_mot_rec: 0.0306 
+epoch:  16 niter:  14400  inner_iter:  671 
+203m 47s loss_mot_rec: 0.0328 
+epoch:  16 niter:  14450  inner_iter:  721 
+204m 28s loss_mot_rec: 0.0314 
+epoch:  16 niter:  14500  inner_iter:  771 
+205m 8s loss_mot_rec: 0.0313 
+epoch:  16 niter:  14550  inner_iter:  821 
+205m 48s loss_mot_rec: 0.0325 
+epoch:  17 niter:  14600  inner_iter:   13 
+206m 49s loss_mot_rec: 0.0330 
+epoch:  17 niter:  14650  inner_iter:   63 
+207m 30s loss_mot_rec: 0.0330 
+epoch:  17 niter:  14700  inner_iter:  113 
+208m 10s loss_mot_rec: 0.0312 
+epoch:  17 niter:  14750  inner_iter:  163 
+208m 50s loss_mot_rec: 0.0340 
+epoch:  17 niter:  14800  inner_iter:  213 
+209m 30s loss_mot_rec: 0.0321 
+epoch:  17 niter:  14850  inner_iter:  263 
+210m 10s loss_mot_rec: 0.0325 
+epoch:  17 niter:  14900  inner_iter:  313 
+210m 50s loss_mot_rec: 0.0335 
+epoch:  17 niter:  14950  inner_iter:  363 
+211m 30s loss_mot_rec: 0.0305 
+epoch:  17 niter:  15000  inner_iter:  413 
+212m 10s loss_mot_rec: 0.0307 
+epoch:  17 niter:  15050  inner_iter:  463 
+212m 50s loss_mot_rec: 0.0329 
+epoch:  17 niter:  15100  inner_iter:  513 
+213m 31s loss_mot_rec: 0.0314 
+epoch:  17 niter:  15150  inner_iter:  563 
+214m 11s loss_mot_rec: 0.0307 
+epoch:  17 niter:  15200  inner_iter:  613 
+214m 51s loss_mot_rec: 0.0302 
+epoch:  17 niter:  15250  inner_iter:  663 
+215m 31s loss_mot_rec: 0.0325 
+epoch:  17 niter:  15300  inner_iter:  713 
+216m 11s loss_mot_rec: 0.0328 
+epoch:  17 niter:  15350  inner_iter:  763 
+216m 51s loss_mot_rec: 0.0312 
+epoch:  17 niter:  15400  inner_iter:  813 
+217m 31s loss_mot_rec: 0.0313 
+epoch:  18 niter:  15450  inner_iter:    5 
+218m 29s loss_mot_rec: 0.0305 
+epoch:  18 niter:  15500  inner_iter:   55 
+219m 9s loss_mot_rec: 0.0303 
+epoch:  18 niter:  15550  inner_iter:  105 
+219m 49s loss_mot_rec: 0.0327 
+epoch:  18 niter:  15600  inner_iter:  155 
+220m 29s loss_mot_rec: 0.0338 
+epoch:  18 niter:  15650  inner_iter:  205 
+221m 9s loss_mot_rec: 0.0317 
+epoch:  18 niter:  15700  inner_iter:  255 
+221m 49s loss_mot_rec: 0.0308 
+epoch:  18 niter:  15750  inner_iter:  305 
+222m 30s loss_mot_rec: 0.0316 
+epoch:  18 niter:  15800  inner_iter:  355 
+223m 10s loss_mot_rec: 0.0317 
+epoch:  18 niter:  15850  inner_iter:  405 
+223m 50s loss_mot_rec: 0.0337 
+epoch:  18 niter:  15900  inner_iter:  455 
+224m 30s loss_mot_rec: 0.0309 
+epoch:  18 niter:  15950  inner_iter:  505 
+225m 10s loss_mot_rec: 0.0307 
+epoch:  18 niter:  16000  inner_iter:  555 
+225m 51s loss_mot_rec: 0.0318 
+epoch:  18 niter:  16050  inner_iter:  605 
+226m 31s loss_mot_rec: 0.0316 
+epoch:  18 niter:  16100  inner_iter:  655 
+227m 13s loss_mot_rec: 0.0308 
+epoch:  18 niter:  16150  inner_iter:  705 
+227m 54s loss_mot_rec: 0.0309 
+epoch:  18 niter:  16200  inner_iter:  755 
+228m 35s loss_mot_rec: 0.0300 
+epoch:  18 niter:  16250  inner_iter:  805 
+229m 15s loss_mot_rec: 0.0328 
+epoch:  18 niter:  16300  inner_iter:  855 
+229m 56s loss_mot_rec: 0.0314 
+epoch:  19 niter:  16350  inner_iter:   47 
+230m 53s loss_mot_rec: 0.0314 
+epoch:  19 niter:  16400  inner_iter:   97 
+231m 33s loss_mot_rec: 0.0303 
+epoch:  19 niter:  16450  inner_iter:  147 
+232m 13s loss_mot_rec: 0.0305 
+epoch:  19 niter:  16500  inner_iter:  197 
+232m 53s loss_mot_rec: 0.0304 
+epoch:  19 niter:  16550  inner_iter:  247 
+233m 34s loss_mot_rec: 0.0288 
+epoch:  19 niter:  16600  inner_iter:  297 
+234m 14s loss_mot_rec: 0.0313 
+epoch:  19 niter:  16650  inner_iter:  347 
+234m 54s loss_mot_rec: 0.0315 
+epoch:  19 niter:  16700  inner_iter:  397 
+235m 34s loss_mot_rec: 0.0309 
+epoch:  19 niter:  16750  inner_iter:  447 
+236m 14s loss_mot_rec: 0.0298 
+epoch:  19 niter:  16800  inner_iter:  497 
+236m 55s loss_mot_rec: 0.0299 
+epoch:  19 niter:  16850  inner_iter:  547 
+237m 35s loss_mot_rec: 0.0311 
+epoch:  19 niter:  16900  inner_iter:  597 
+238m 18s loss_mot_rec: 0.0305 
+epoch:  19 niter:  16950  inner_iter:  647 
+238m 58s loss_mot_rec: 0.0296 
+epoch:  19 niter:  17000  inner_iter:  697 
+239m 38s loss_mot_rec: 0.0296 
+epoch:  19 niter:  17050  inner_iter:  747 
+240m 18s loss_mot_rec: 0.0311 
+epoch:  19 niter:  17100  inner_iter:  797 
+240m 58s loss_mot_rec: 0.0299 
+epoch:  19 niter:  17150  inner_iter:  847 
+241m 38s loss_mot_rec: 0.0302 
+epoch:  20 niter:  17200  inner_iter:   39 
+242m 36s loss_mot_rec: 0.0297 
+epoch:  20 niter:  17250  inner_iter:   89 
+243m 16s loss_mot_rec: 0.0324 
+epoch:  20 niter:  17300  inner_iter:  139 
+243m 56s loss_mot_rec: 0.0318 
+epoch:  20 niter:  17350  inner_iter:  189 
+244m 36s loss_mot_rec: 0.0295 
+epoch:  20 niter:  17400  inner_iter:  239 
+245m 16s loss_mot_rec: 0.0312 
+epoch:  20 niter:  17450  inner_iter:  289 
+245m 57s loss_mot_rec: 0.0295 
+epoch:  20 niter:  17500  inner_iter:  339 
+246m 37s loss_mot_rec: 0.0304 
+epoch:  20 niter:  17550  inner_iter:  389 
+247m 17s loss_mot_rec: 0.0303 
+epoch:  20 niter:  17600  inner_iter:  439 
+247m 57s loss_mot_rec: 0.0306 
+epoch:  20 niter:  17650  inner_iter:  489 
+248m 37s loss_mot_rec: 0.0290 
+epoch:  20 niter:  17700  inner_iter:  539 
+249m 17s loss_mot_rec: 0.0295 
+epoch:  20 niter:  17750  inner_iter:  589 
+249m 58s loss_mot_rec: 0.0309 
+epoch:  20 niter:  17800  inner_iter:  639 
+250m 38s loss_mot_rec: 0.0295 
+epoch:  20 niter:  17850  inner_iter:  689 
+251m 18s loss_mot_rec: 0.0294 
+epoch:  20 niter:  17900  inner_iter:  739 
+251m 58s loss_mot_rec: 0.0305 
+epoch:  20 niter:  17950  inner_iter:  789 
+252m 39s loss_mot_rec: 0.0305 
+epoch:  20 niter:  18000  inner_iter:  839 
+253m 19s loss_mot_rec: 0.0308 
+epoch:  21 niter:  18050  inner_iter:   31 
+254m 18s loss_mot_rec: 0.0311 
+epoch:  21 niter:  18100  inner_iter:   81 
+255m 0s loss_mot_rec: 0.0304 
+epoch:  21 niter:  18150  inner_iter:  131 
+255m 40s loss_mot_rec: 0.0312 
+epoch:  21 niter:  18200  inner_iter:  181 
+256m 21s loss_mot_rec: 0.0295 
+epoch:  21 niter:  18250  inner_iter:  231 
+257m 1s loss_mot_rec: 0.0310 
+epoch:  21 niter:  18300  inner_iter:  281 
+257m 41s loss_mot_rec: 0.0295 
+epoch:  21 niter:  18350  inner_iter:  331 
+258m 21s loss_mot_rec: 0.0305 
+epoch:  21 niter:  18400  inner_iter:  381 
+259m 2s loss_mot_rec: 0.0307 
+epoch:  21 niter:  18450  inner_iter:  431 
+259m 42s loss_mot_rec: 0.0307 
+epoch:  21 niter:  18500  inner_iter:  481 
+260m 22s loss_mot_rec: 0.0300 
+epoch:  21 niter:  18550  inner_iter:  531 
+261m 2s loss_mot_rec: 0.0312 
+epoch:  21 niter:  18600  inner_iter:  581 
+261m 42s loss_mot_rec: 0.0299 
+epoch:  21 niter:  18650  inner_iter:  631 
+262m 23s loss_mot_rec: 0.0294 
+epoch:  21 niter:  18700  inner_iter:  681 
+263m 3s loss_mot_rec: 0.0285 
+epoch:  21 niter:  18750  inner_iter:  731 
+263m 43s loss_mot_rec: 0.0293 
+epoch:  21 niter:  18800  inner_iter:  781 
+264m 23s loss_mot_rec: 0.0292 
+epoch:  21 niter:  18850  inner_iter:  831 
+265m 3s loss_mot_rec: 0.0303 
+epoch:  22 niter:  18900  inner_iter:   23 
+266m 0s loss_mot_rec: 0.0297 
+epoch:  22 niter:  18950  inner_iter:   73 
+266m 40s loss_mot_rec: 0.0301 
+epoch:  22 niter:  19000  inner_iter:  123 
+267m 20s loss_mot_rec: 0.0303 
+epoch:  22 niter:  19050  inner_iter:  173 
+268m 0s loss_mot_rec: 0.0293 
+epoch:  22 niter:  19100  inner_iter:  223 
+268m 41s loss_mot_rec: 0.0308 
+epoch:  22 niter:  19150  inner_iter:  273 
+269m 21s loss_mot_rec: 0.0287 
+epoch:  22 niter:  19200  inner_iter:  323 
+270m 1s loss_mot_rec: 0.0300 
+epoch:  22 niter:  19250  inner_iter:  373 
+270m 41s loss_mot_rec: 0.0285 
+epoch:  22 niter:  19300  inner_iter:  423 
+271m 22s loss_mot_rec: 0.0296 
+epoch:  22 niter:  19350  inner_iter:  473 
+272m 2s loss_mot_rec: 0.0305 
+epoch:  22 niter:  19400  inner_iter:  523 
+272m 43s loss_mot_rec: 0.0292 
+epoch:  22 niter:  19450  inner_iter:  573 
+273m 25s loss_mot_rec: 0.0299 
+epoch:  22 niter:  19500  inner_iter:  623 
+274m 5s loss_mot_rec: 0.0292 
+epoch:  22 niter:  19550  inner_iter:  673 
+274m 45s loss_mot_rec: 0.0313 
+epoch:  22 niter:  19600  inner_iter:  723 
+275m 26s loss_mot_rec: 0.0306 
+epoch:  22 niter:  19650  inner_iter:  773 
+276m 6s loss_mot_rec: 0.0299 
+epoch:  22 niter:  19700  inner_iter:  823 
+276m 46s loss_mot_rec: 0.0314 
+epoch:  23 niter:  19750  inner_iter:   15 
+277m 43s loss_mot_rec: 0.0288 
+epoch:  23 niter:  19800  inner_iter:   65 
+278m 23s loss_mot_rec: 0.0283 
+epoch:  23 niter:  19850  inner_iter:  115 
+279m 4s loss_mot_rec: 0.0305 
+epoch:  23 niter:  19900  inner_iter:  165 
+279m 44s loss_mot_rec: 0.0293 
+epoch:  23 niter:  19950  inner_iter:  215 
+280m 24s loss_mot_rec: 0.0307 
+epoch:  23 niter:  20000  inner_iter:  265 
+281m 4s loss_mot_rec: 0.0279 
+epoch:  23 niter:  20050  inner_iter:  315 
+281m 45s loss_mot_rec: 0.0304 
+epoch:  23 niter:  20100  inner_iter:  365 
+282m 25s loss_mot_rec: 0.0288 
+epoch:  23 niter:  20150  inner_iter:  415 
+283m 5s loss_mot_rec: 0.0301 
+epoch:  23 niter:  20200  inner_iter:  465 
+283m 46s loss_mot_rec: 0.0284 
+epoch:  23 niter:  20250  inner_iter:  515 
+284m 26s loss_mot_rec: 0.0285 
+epoch:  23 niter:  20300  inner_iter:  565 
+285m 6s loss_mot_rec: 0.0294 
+epoch:  23 niter:  20350  inner_iter:  615 
+285m 47s loss_mot_rec: 0.0306 
+epoch:  23 niter:  20400  inner_iter:  665 
+286m 27s loss_mot_rec: 0.0291 
+epoch:  23 niter:  20450  inner_iter:  715 
+287m 8s loss_mot_rec: 0.0284 
+epoch:  23 niter:  20500  inner_iter:  765 
+287m 48s loss_mot_rec: 0.0296 
+epoch:  23 niter:  20550  inner_iter:  815 
+288m 28s loss_mot_rec: 0.0276 
+epoch:  24 niter:  20600  inner_iter:    7 
+289m 25s loss_mot_rec: 0.0297 
+epoch:  24 niter:  20650  inner_iter:   57 
+290m 6s loss_mot_rec: 0.0298 
+epoch:  24 niter:  20700  inner_iter:  107 
+290m 46s loss_mot_rec: 0.0299 
+epoch:  24 niter:  20750  inner_iter:  157 
+291m 26s loss_mot_rec: 0.0288 
+epoch:  24 niter:  20800  inner_iter:  207 
+292m 7s loss_mot_rec: 0.0296 
+epoch:  24 niter:  20850  inner_iter:  257 
+292m 47s loss_mot_rec: 0.0296 
+epoch:  24 niter:  20900  inner_iter:  307 
+293m 27s loss_mot_rec: 0.0291 
+epoch:  24 niter:  20950  inner_iter:  357 
+294m 8s loss_mot_rec: 0.0274 
+epoch:  24 niter:  21000  inner_iter:  407 
+294m 48s loss_mot_rec: 0.0293 
+epoch:  24 niter:  21050  inner_iter:  457 
+295m 28s loss_mot_rec: 0.0285 
+epoch:  24 niter:  21100  inner_iter:  507 
+296m 9s loss_mot_rec: 0.0285 
+epoch:  24 niter:  21150  inner_iter:  557 
+296m 49s loss_mot_rec: 0.0270 
+epoch:  24 niter:  21200  inner_iter:  607 
+297m 29s loss_mot_rec: 0.0292 
+epoch:  24 niter:  21250  inner_iter:  657 
+298m 9s loss_mot_rec: 0.0299 
+epoch:  24 niter:  21300  inner_iter:  707 
+298m 50s loss_mot_rec: 0.0286 
+epoch:  24 niter:  21350  inner_iter:  757 
+299m 30s loss_mot_rec: 0.0274 
+epoch:  24 niter:  21400  inner_iter:  807 
+300m 12s loss_mot_rec: 0.0283 
+epoch:  24 niter:  21450  inner_iter:  857 
+300m 53s loss_mot_rec: 0.0305 
+epoch:  25 niter:  21500  inner_iter:   49 
+301m 50s loss_mot_rec: 0.0286 
+epoch:  25 niter:  21550  inner_iter:   99 
+302m 30s loss_mot_rec: 0.0284 
+epoch:  25 niter:  21600  inner_iter:  149 
+303m 11s loss_mot_rec: 0.0289 
+epoch:  25 niter:  21650  inner_iter:  199 
+303m 51s loss_mot_rec: 0.0299 
+epoch:  25 niter:  21700  inner_iter:  249 
+304m 31s loss_mot_rec: 0.0285 
+epoch:  25 niter:  21750  inner_iter:  299 
+305m 12s loss_mot_rec: 0.0275 
+epoch:  25 niter:  21800  inner_iter:  349 
+305m 52s loss_mot_rec: 0.0285 
+epoch:  25 niter:  21850  inner_iter:  399 
+306m 32s loss_mot_rec: 0.0290 
+epoch:  25 niter:  21900  inner_iter:  449 
+307m 12s loss_mot_rec: 0.0283 
+epoch:  25 niter:  21950  inner_iter:  499 
+307m 53s loss_mot_rec: 0.0295 
+epoch:  25 niter:  22000  inner_iter:  549 
+308m 33s loss_mot_rec: 0.0289 
+epoch:  25 niter:  22050  inner_iter:  599 
+309m 13s loss_mot_rec: 0.0284 
+epoch:  25 niter:  22100  inner_iter:  649 
+309m 54s loss_mot_rec: 0.0272 
+epoch:  25 niter:  22150  inner_iter:  699 
+310m 34s loss_mot_rec: 0.0282 
+epoch:  25 niter:  22200  inner_iter:  749 
+311m 14s loss_mot_rec: 0.0286 
+epoch:  25 niter:  22250  inner_iter:  799 
+311m 55s loss_mot_rec: 0.0290 
+epoch:  25 niter:  22300  inner_iter:  849 
+312m 35s loss_mot_rec: 0.0293 
+epoch:  26 niter:  22350  inner_iter:   41 
+313m 34s loss_mot_rec: 0.0280 
+epoch:  26 niter:  22400  inner_iter:   91 
+314m 14s loss_mot_rec: 0.0293 
+epoch:  26 niter:  22450  inner_iter:  141 
+314m 55s loss_mot_rec: 0.0297 
+epoch:  26 niter:  22500  inner_iter:  191 
+315m 35s loss_mot_rec: 0.0282 
+epoch:  26 niter:  22550  inner_iter:  241 
+316m 16s loss_mot_rec: 0.0283 
+epoch:  26 niter:  22600  inner_iter:  291 
+316m 59s loss_mot_rec: 0.0278 
+epoch:  26 niter:  22650  inner_iter:  341 
+317m 40s loss_mot_rec: 0.0282 
+epoch:  26 niter:  22700  inner_iter:  391 
+318m 21s loss_mot_rec: 0.0279 
+epoch:  26 niter:  22750  inner_iter:  441 
+319m 1s loss_mot_rec: 0.0286 
+epoch:  26 niter:  22800  inner_iter:  491 
+319m 41s loss_mot_rec: 0.0284 
+epoch:  26 niter:  22850  inner_iter:  541 
+320m 22s loss_mot_rec: 0.0277 
+epoch:  26 niter:  22900  inner_iter:  591 
+321m 2s loss_mot_rec: 0.0294 
+epoch:  26 niter:  22950  inner_iter:  641 
+321m 43s loss_mot_rec: 0.0282 
+epoch:  26 niter:  23000  inner_iter:  691 
+322m 23s loss_mot_rec: 0.0284 
+epoch:  26 niter:  23050  inner_iter:  741 
+323m 4s loss_mot_rec: 0.0275 
+epoch:  26 niter:  23100  inner_iter:  791 
+323m 44s loss_mot_rec: 0.0270 
+epoch:  26 niter:  23150  inner_iter:  841 
+324m 24s loss_mot_rec: 0.0283 
+epoch:  27 niter:  23200  inner_iter:   33 
+325m 22s loss_mot_rec: 0.0290 
+epoch:  27 niter:  23250  inner_iter:   83 
+326m 2s loss_mot_rec: 0.0335 
+epoch:  27 niter:  23300  inner_iter:  133 
+326m 43s loss_mot_rec: 0.0299 
+epoch:  27 niter:  23350  inner_iter:  183 
+327m 26s loss_mot_rec: 0.0294 
+epoch:  27 niter:  23400  inner_iter:  233 
+328m 7s loss_mot_rec: 0.0283 
+epoch:  27 niter:  23450  inner_iter:  283 
+328m 48s loss_mot_rec: 0.0287 
+epoch:  27 niter:  23500  inner_iter:  333 
+329m 28s loss_mot_rec: 0.0271 
+epoch:  27 niter:  23550  inner_iter:  383 
+330m 8s loss_mot_rec: 0.0268 
+epoch:  27 niter:  23600  inner_iter:  433 
+330m 49s loss_mot_rec: 0.0285 
+epoch:  27 niter:  23650  inner_iter:  483 
+331m 29s loss_mot_rec: 0.0283 
+epoch:  27 niter:  23700  inner_iter:  533 
+332m 9s loss_mot_rec: 0.0277 
+epoch:  27 niter:  23750  inner_iter:  583 
+332m 50s loss_mot_rec: 0.0279 
+epoch:  27 niter:  23800  inner_iter:  633 
+333m 30s loss_mot_rec: 0.0285 
+epoch:  27 niter:  23850  inner_iter:  683 
+334m 10s loss_mot_rec: 0.0278 
+epoch:  27 niter:  23900  inner_iter:  733 
+334m 51s loss_mot_rec: 0.0273 
+epoch:  27 niter:  23950  inner_iter:  783 
+335m 31s loss_mot_rec: 0.0296 
+epoch:  27 niter:  24000  inner_iter:  833 
+336m 11s loss_mot_rec: 0.0279 
+epoch:  28 niter:  24050  inner_iter:   25 
+337m 15s loss_mot_rec: 0.0266 
+epoch:  28 niter:  24100  inner_iter:   75 
+337m 56s loss_mot_rec: 0.0276 
+epoch:  28 niter:  24150  inner_iter:  125 
+338m 36s loss_mot_rec: 0.0283 
+epoch:  28 niter:  24200  inner_iter:  175 
+339m 17s loss_mot_rec: 0.0280 
+epoch:  28 niter:  24250  inner_iter:  225 
+339m 57s loss_mot_rec: 0.0286 
+epoch:  28 niter:  24300  inner_iter:  275 
+340m 37s loss_mot_rec: 0.0280 
+epoch:  28 niter:  24350  inner_iter:  325 
+341m 17s loss_mot_rec: 0.0289 
+epoch:  28 niter:  24400  inner_iter:  375 
+341m 58s loss_mot_rec: 0.0277 
+epoch:  28 niter:  24450  inner_iter:  425 
+342m 38s loss_mot_rec: 0.0274 
+epoch:  28 niter:  24500  inner_iter:  475 
+343m 18s loss_mot_rec: 0.0279 
+epoch:  28 niter:  24550  inner_iter:  525 
+343m 59s loss_mot_rec: 0.0289 
+epoch:  28 niter:  24600  inner_iter:  575 
+344m 39s loss_mot_rec: 0.0268 
+epoch:  28 niter:  24650  inner_iter:  625 
+345m 19s loss_mot_rec: 0.0271 
+epoch:  28 niter:  24700  inner_iter:  675 
+346m 0s loss_mot_rec: 0.0278 
+epoch:  28 niter:  24750  inner_iter:  725 
+346m 40s loss_mot_rec: 0.0271 
+epoch:  28 niter:  24800  inner_iter:  775 
+347m 20s loss_mot_rec: 0.0280 
+epoch:  28 niter:  24850  inner_iter:  825 
+348m 1s loss_mot_rec: 0.0305 
+epoch:  29 niter:  24900  inner_iter:   17 
+348m 58s loss_mot_rec: 0.0298 
+epoch:  29 niter:  24950  inner_iter:   67 
+349m 38s loss_mot_rec: 0.0275 
+epoch:  29 niter:  25000  inner_iter:  117 
+350m 19s loss_mot_rec: 0.0279 
+epoch:  29 niter:  25050  inner_iter:  167 
+350m 59s loss_mot_rec: 0.0272 
+epoch:  29 niter:  25100  inner_iter:  217 
+351m 39s loss_mot_rec: 0.0274 
+epoch:  29 niter:  25150  inner_iter:  267 
+352m 20s loss_mot_rec: 0.0283 
+epoch:  29 niter:  25200  inner_iter:  317 
+353m 0s loss_mot_rec: 0.0267 
+epoch:  29 niter:  25250  inner_iter:  367 
+353m 40s loss_mot_rec: 0.0265 
+epoch:  29 niter:  25300  inner_iter:  417 
+354m 21s loss_mot_rec: 0.0290 
+epoch:  29 niter:  25350  inner_iter:  467 
+355m 1s loss_mot_rec: 0.0276 
+epoch:  29 niter:  25400  inner_iter:  517 
+355m 41s loss_mot_rec: 0.0278 
+epoch:  29 niter:  25450  inner_iter:  567 
+356m 22s loss_mot_rec: 0.0277 
+epoch:  29 niter:  25500  inner_iter:  617 
+357m 2s loss_mot_rec: 0.0280 
+epoch:  29 niter:  25550  inner_iter:  667 
+357m 42s loss_mot_rec: 0.0279 
+epoch:  29 niter:  25600  inner_iter:  717 
+358m 23s loss_mot_rec: 0.0276 
+epoch:  29 niter:  25650  inner_iter:  767 
+359m 3s loss_mot_rec: 0.0288 
+epoch:  29 niter:  25700  inner_iter:  817 
+359m 44s loss_mot_rec: 0.0279 
+epoch:  30 niter:  25750  inner_iter:    9 
+360m 41s loss_mot_rec: 0.0269 
+epoch:  30 niter:  25800  inner_iter:   59 
+361m 21s loss_mot_rec: 0.0283 
+epoch:  30 niter:  25850  inner_iter:  109 
+362m 2s loss_mot_rec: 0.0284 
+epoch:  30 niter:  25900  inner_iter:  159 
+362m 42s loss_mot_rec: 0.0272 
+epoch:  30 niter:  25950  inner_iter:  209 
+363m 22s loss_mot_rec: 0.0264 
+epoch:  30 niter:  26000  inner_iter:  259 
+364m 3s loss_mot_rec: 0.0290 
+epoch:  30 niter:  26050  inner_iter:  309 
+364m 43s loss_mot_rec: 0.0267 
+epoch:  30 niter:  26100  inner_iter:  359 
+365m 24s loss_mot_rec: 0.0265 
+epoch:  30 niter:  26150  inner_iter:  409 
+366m 4s loss_mot_rec: 0.0276 
+epoch:  30 niter:  26200  inner_iter:  459 
+366m 44s loss_mot_rec: 0.0287 
+epoch:  30 niter:  26250  inner_iter:  509 
+367m 25s loss_mot_rec: 0.0272 
+epoch:  30 niter:  26300  inner_iter:  559 
+368m 5s loss_mot_rec: 0.0262 
+epoch:  30 niter:  26350  inner_iter:  609 
+368m 46s loss_mot_rec: 0.0277 
+epoch:  30 niter:  26400  inner_iter:  659 
+369m 26s loss_mot_rec: 0.0288 
+epoch:  30 niter:  26450  inner_iter:  709 
+370m 7s loss_mot_rec: 0.0280 
+epoch:  30 niter:  26500  inner_iter:  759 
+370m 48s loss_mot_rec: 0.0271 
+epoch:  30 niter:  26550  inner_iter:  809 
+371m 28s loss_mot_rec: 0.0265 
+epoch:  31 niter:  26600  inner_iter:    1 
+372m 29s loss_mot_rec: 0.0262 
+epoch:  31 niter:  26650  inner_iter:   51 
+373m 10s loss_mot_rec: 0.0276 
+epoch:  31 niter:  26700  inner_iter:  101 
+373m 51s loss_mot_rec: 0.0269 
+epoch:  31 niter:  26750  inner_iter:  151 
+374m 31s loss_mot_rec: 0.0263 
+epoch:  31 niter:  26800  inner_iter:  201 
+375m 12s loss_mot_rec: 0.0270 
+epoch:  31 niter:  26850  inner_iter:  251 
+375m 52s loss_mot_rec: 0.0268 
+epoch:  31 niter:  26900  inner_iter:  301 
+376m 32s loss_mot_rec: 0.0273 
+epoch:  31 niter:  26950  inner_iter:  351 
+377m 12s loss_mot_rec: 0.0288 
+epoch:  31 niter:  27000  inner_iter:  401 
+377m 53s loss_mot_rec: 0.0265 
+epoch:  31 niter:  27050  inner_iter:  451 
+378m 33s loss_mot_rec: 0.0275 
+epoch:  31 niter:  27100  inner_iter:  501 
+379m 13s loss_mot_rec: 0.0278 
+epoch:  31 niter:  27150  inner_iter:  551 
+379m 53s loss_mot_rec: 0.0246 
+epoch:  31 niter:  27200  inner_iter:  601 
+380m 33s loss_mot_rec: 0.0275 
+epoch:  31 niter:  27250  inner_iter:  651 
+381m 14s loss_mot_rec: 0.0262 
+epoch:  31 niter:  27300  inner_iter:  701 
+381m 54s loss_mot_rec: 0.0249 
+epoch:  31 niter:  27350  inner_iter:  751 
+382m 34s loss_mot_rec: 0.0268 
+epoch:  31 niter:  27400  inner_iter:  801 
+383m 14s loss_mot_rec: 0.0282 
+epoch:  31 niter:  27450  inner_iter:  851 
+383m 54s loss_mot_rec: 0.0266 
+epoch:  32 niter:  27500  inner_iter:   43 
+384m 51s loss_mot_rec: 0.0267 
+epoch:  32 niter:  27550  inner_iter:   93 
+385m 31s loss_mot_rec: 0.0263 
+epoch:  32 niter:  27600  inner_iter:  143 
+386m 12s loss_mot_rec: 0.0270 
+epoch:  32 niter:  27650  inner_iter:  193 
+386m 52s loss_mot_rec: 0.0256 
+epoch:  32 niter:  27700  inner_iter:  243 
+387m 32s loss_mot_rec: 0.0262 
+epoch:  32 niter:  27750  inner_iter:  293 
+388m 12s loss_mot_rec: 0.0257 
+epoch:  32 niter:  27800  inner_iter:  343 
+388m 52s loss_mot_rec: 0.0256 
+epoch:  32 niter:  27850  inner_iter:  393 
+389m 32s loss_mot_rec: 0.0275 
+epoch:  32 niter:  27900  inner_iter:  443 
+390m 13s loss_mot_rec: 0.0276 
+epoch:  32 niter:  27950  inner_iter:  493 
+390m 53s loss_mot_rec: 0.0273 
+epoch:  32 niter:  28000  inner_iter:  543 
+391m 33s loss_mot_rec: 0.0279 
+epoch:  32 niter:  28050  inner_iter:  593 
+392m 13s loss_mot_rec: 0.0272 
+epoch:  32 niter:  28100  inner_iter:  643 
+392m 54s loss_mot_rec: 0.0269 
+epoch:  32 niter:  28150  inner_iter:  693 
+393m 34s loss_mot_rec: 0.0264 
+epoch:  32 niter:  28200  inner_iter:  743 
+394m 14s loss_mot_rec: 0.0265 
+epoch:  32 niter:  28250  inner_iter:  793 
+394m 54s loss_mot_rec: 0.0255 
+epoch:  32 niter:  28300  inner_iter:  843 
+395m 34s loss_mot_rec: 0.0273 
+epoch:  33 niter:  28350  inner_iter:   35 
+396m 31s loss_mot_rec: 0.0273 
+epoch:  33 niter:  28400  inner_iter:   85 
+397m 11s loss_mot_rec: 0.0263 
+epoch:  33 niter:  28450  inner_iter:  135 
+397m 51s loss_mot_rec: 0.0280 
+epoch:  33 niter:  28500  inner_iter:  185 
+398m 31s loss_mot_rec: 0.0272 
+epoch:  33 niter:  28550  inner_iter:  235 
+399m 12s loss_mot_rec: 0.0277 
+epoch:  33 niter:  28600  inner_iter:  285 
+399m 52s loss_mot_rec: 0.0267 
+epoch:  33 niter:  28650  inner_iter:  335 
+400m 32s loss_mot_rec: 0.0265 
+epoch:  33 niter:  28700  inner_iter:  385 
+401m 12s loss_mot_rec: 0.0272 
+epoch:  33 niter:  28750  inner_iter:  435 
+401m 52s loss_mot_rec: 0.0268 
+epoch:  33 niter:  28800  inner_iter:  485 
+402m 32s loss_mot_rec: 0.0283 
+epoch:  33 niter:  28850  inner_iter:  535 
+403m 13s loss_mot_rec: 0.0271 
+epoch:  33 niter:  28900  inner_iter:  585 
+403m 53s loss_mot_rec: 0.0273 
+epoch:  33 niter:  28950  inner_iter:  635 
+404m 33s loss_mot_rec: 0.0255 
+epoch:  33 niter:  29000  inner_iter:  685 
+405m 13s loss_mot_rec: 0.0269 
+epoch:  33 niter:  29050  inner_iter:  735 
+405m 54s loss_mot_rec: 0.0266 
+epoch:  33 niter:  29100  inner_iter:  785 
+406m 34s loss_mot_rec: 0.0265 
+epoch:  33 niter:  29150  inner_iter:  835 
+407m 14s loss_mot_rec: 0.0255 
+epoch:  34 niter:  29200  inner_iter:   27 
+408m 11s loss_mot_rec: 0.0271 
+epoch:  34 niter:  29250  inner_iter:   77 
+408m 51s loss_mot_rec: 0.0273 
+epoch:  34 niter:  29300  inner_iter:  127 
+409m 31s loss_mot_rec: 0.0267 
+epoch:  34 niter:  29350  inner_iter:  177 
+410m 11s loss_mot_rec: 0.0267 
+epoch:  34 niter:  29400  inner_iter:  227 
+410m 52s loss_mot_rec: 0.0283 
+epoch:  34 niter:  29450  inner_iter:  277 
+411m 32s loss_mot_rec: 0.0264 
+epoch:  34 niter:  29500  inner_iter:  327 
+412m 12s loss_mot_rec: 0.0272 
+epoch:  34 niter:  29550  inner_iter:  377 
+412m 52s loss_mot_rec: 0.0253 
+epoch:  34 niter:  29600  inner_iter:  427 
+413m 33s loss_mot_rec: 0.0279 
+epoch:  34 niter:  29650  inner_iter:  477 
+414m 13s loss_mot_rec: 0.0258 
+epoch:  34 niter:  29700  inner_iter:  527 
+414m 53s loss_mot_rec: 0.0279 
+epoch:  34 niter:  29750  inner_iter:  577 
+415m 33s loss_mot_rec: 0.0266 
+epoch:  34 niter:  29800  inner_iter:  627 
+416m 13s loss_mot_rec: 0.0265 
+epoch:  34 niter:  29850  inner_iter:  677 
+416m 53s loss_mot_rec: 0.0253 
+epoch:  34 niter:  29900  inner_iter:  727 
+417m 34s loss_mot_rec: 0.0280 
+epoch:  34 niter:  29950  inner_iter:  777 
+418m 14s loss_mot_rec: 0.0265 
+epoch:  34 niter:  30000  inner_iter:  827 
+418m 54s loss_mot_rec: 0.0263 
+epoch:  35 niter:  30050  inner_iter:   19 
+419m 50s loss_mot_rec: 0.0249 
+epoch:  35 niter:  30100  inner_iter:   69 
+420m 31s loss_mot_rec: 0.0262 
+epoch:  35 niter:  30150  inner_iter:  119 
+421m 11s loss_mot_rec: 0.0274 
+epoch:  35 niter:  30200  inner_iter:  169 
+421m 52s loss_mot_rec: 0.0265 
+epoch:  35 niter:  30250  inner_iter:  219 
+422m 32s loss_mot_rec: 0.0276 
+epoch:  35 niter:  30300  inner_iter:  269 
+423m 12s loss_mot_rec: 0.0275 
+epoch:  35 niter:  30350  inner_iter:  319 
+423m 53s loss_mot_rec: 0.0265 
+epoch:  35 niter:  30400  inner_iter:  369 
+424m 33s loss_mot_rec: 0.0267 
+epoch:  35 niter:  30450  inner_iter:  419 
+425m 13s loss_mot_rec: 0.0261 
+epoch:  35 niter:  30500  inner_iter:  469 
+425m 54s loss_mot_rec: 0.0255 
+epoch:  35 niter:  30550  inner_iter:  519 
+426m 35s loss_mot_rec: 0.0252 
+epoch:  35 niter:  30600  inner_iter:  569 
+427m 15s loss_mot_rec: 0.0278 
+epoch:  35 niter:  30650  inner_iter:  619 
+427m 55s loss_mot_rec: 0.0273 
+epoch:  35 niter:  30700  inner_iter:  669 
+428m 35s loss_mot_rec: 0.0253 
+epoch:  35 niter:  30750  inner_iter:  719 
+429m 16s loss_mot_rec: 0.0257 
+epoch:  35 niter:  30800  inner_iter:  769 
+429m 56s loss_mot_rec: 0.0257 
+epoch:  35 niter:  30850  inner_iter:  819 
+430m 36s loss_mot_rec: 0.0260 
+epoch:  36 niter:  30900  inner_iter:   11 
+431m 36s loss_mot_rec: 0.0255 
+epoch:  36 niter:  30950  inner_iter:   61 
+432m 16s loss_mot_rec: 0.0259 
+epoch:  36 niter:  31000  inner_iter:  111 
+432m 56s loss_mot_rec: 0.0264 
+epoch:  36 niter:  31050  inner_iter:  161 
+433m 36s loss_mot_rec: 0.0251 
+epoch:  36 niter:  31100  inner_iter:  211 
+434m 17s loss_mot_rec: 0.0244 
+epoch:  36 niter:  31150  inner_iter:  261 
+434m 57s loss_mot_rec: 0.0251 
+epoch:  36 niter:  31200  inner_iter:  311 
+435m 37s loss_mot_rec: 0.0266 
+epoch:  36 niter:  31250  inner_iter:  361 
+436m 17s loss_mot_rec: 0.0268 
+epoch:  36 niter:  31300  inner_iter:  411 
+436m 58s loss_mot_rec: 0.0255 
+epoch:  36 niter:  31350  inner_iter:  461 
+437m 38s loss_mot_rec: 0.0266 
+epoch:  36 niter:  31400  inner_iter:  511 
+438m 18s loss_mot_rec: 0.0251 
+epoch:  36 niter:  31450  inner_iter:  561 
+438m 58s loss_mot_rec: 0.0275 
+epoch:  36 niter:  31500  inner_iter:  611 
+439m 39s loss_mot_rec: 0.0261 
+epoch:  36 niter:  31550  inner_iter:  661 
+440m 19s loss_mot_rec: 0.0263 
+epoch:  36 niter:  31600  inner_iter:  711 
+440m 59s loss_mot_rec: 0.0255 
+epoch:  36 niter:  31650  inner_iter:  761 
+441m 39s loss_mot_rec: 0.0267 
+epoch:  36 niter:  31700  inner_iter:  811 
+442m 20s loss_mot_rec: 0.0254 
+epoch:  37 niter:  31750  inner_iter:    3 
+443m 17s loss_mot_rec: 0.0281 
+epoch:  37 niter:  31800  inner_iter:   53 
+443m 57s loss_mot_rec: 0.0266 
+epoch:  37 niter:  31850  inner_iter:  103 
+444m 38s loss_mot_rec: 0.0270 
+epoch:  37 niter:  31900  inner_iter:  153 
+445m 18s loss_mot_rec: 0.0271 
+epoch:  37 niter:  31950  inner_iter:  203 
+445m 58s loss_mot_rec: 0.0262 
+epoch:  37 niter:  32000  inner_iter:  253 
+446m 38s loss_mot_rec: 0.0267 
+epoch:  37 niter:  32050  inner_iter:  303 
+447m 19s loss_mot_rec: 0.0262 
+epoch:  37 niter:  32100  inner_iter:  353 
+447m 59s loss_mot_rec: 0.0262 
+epoch:  37 niter:  32150  inner_iter:  403 
+448m 39s loss_mot_rec: 0.0260 
+epoch:  37 niter:  32200  inner_iter:  453 
+449m 19s loss_mot_rec: 0.0266 
+epoch:  37 niter:  32250  inner_iter:  503 
+450m 0s loss_mot_rec: 0.0262 
+epoch:  37 niter:  32300  inner_iter:  553 
+450m 40s loss_mot_rec: 0.0263 
+epoch:  37 niter:  32350  inner_iter:  603 
+451m 20s loss_mot_rec: 0.0265 
+epoch:  37 niter:  32400  inner_iter:  653 
+452m 0s loss_mot_rec: 0.0254 
+epoch:  37 niter:  32450  inner_iter:  703 
+452m 41s loss_mot_rec: 0.0263 
+epoch:  37 niter:  32500  inner_iter:  753 
+453m 21s loss_mot_rec: 0.0251 
+epoch:  37 niter:  32550  inner_iter:  803 
+454m 1s loss_mot_rec: 0.0246 
+epoch:  37 niter:  32600  inner_iter:  853 
+454m 41s loss_mot_rec: 0.0266 
+epoch:  38 niter:  32650  inner_iter:   45 
+455m 39s loss_mot_rec: 0.0257 
+epoch:  38 niter:  32700  inner_iter:   95 
+456m 19s loss_mot_rec: 0.0248 
+epoch:  38 niter:  32750  inner_iter:  145 
+456m 59s loss_mot_rec: 0.0268 
+epoch:  38 niter:  32800  inner_iter:  195 
+457m 39s loss_mot_rec: 0.0248 
+epoch:  38 niter:  32850  inner_iter:  245 
+458m 20s loss_mot_rec: 0.0256 
+epoch:  38 niter:  32900  inner_iter:  295 
+459m 0s loss_mot_rec: 0.0257 
+epoch:  38 niter:  32950  inner_iter:  345 
+459m 40s loss_mot_rec: 0.0256 
+epoch:  38 niter:  33000  inner_iter:  395 
+460m 20s loss_mot_rec: 0.0266 
+epoch:  38 niter:  33050  inner_iter:  445 
+461m 1s loss_mot_rec: 0.0279 
+epoch:  38 niter:  33100  inner_iter:  495 
+461m 41s loss_mot_rec: 0.0272 
+epoch:  38 niter:  33150  inner_iter:  545 
+462m 21s loss_mot_rec: 0.0256 
+epoch:  38 niter:  33200  inner_iter:  595 
+463m 2s loss_mot_rec: 0.0247 
+epoch:  38 niter:  33250  inner_iter:  645 
+463m 42s loss_mot_rec: 0.0260 
+epoch:  38 niter:  33300  inner_iter:  695 
+464m 22s loss_mot_rec: 0.0255 
+epoch:  38 niter:  33350  inner_iter:  745 
+465m 2s loss_mot_rec: 0.0248 
+epoch:  38 niter:  33400  inner_iter:  795 
+465m 43s loss_mot_rec: 0.0248 
+epoch:  38 niter:  33450  inner_iter:  845 
+466m 23s loss_mot_rec: 0.0254 
+epoch:  39 niter:  33500  inner_iter:   37 
+467m 23s loss_mot_rec: 0.0250 
+epoch:  39 niter:  33550  inner_iter:   87 
+468m 3s loss_mot_rec: 0.0250 
+epoch:  39 niter:  33600  inner_iter:  137 
+468m 43s loss_mot_rec: 0.0255 
+epoch:  39 niter:  33650  inner_iter:  187 
+469m 23s loss_mot_rec: 0.0257 
+epoch:  39 niter:  33700  inner_iter:  237 
+470m 4s loss_mot_rec: 0.0252 
+epoch:  39 niter:  33750  inner_iter:  287 
+470m 44s loss_mot_rec: 0.0265 
+epoch:  39 niter:  33800  inner_iter:  337 
+471m 25s loss_mot_rec: 0.0264 
+epoch:  39 niter:  33850  inner_iter:  387 
+472m 5s loss_mot_rec: 0.0276 
+epoch:  39 niter:  33900  inner_iter:  437 
+472m 46s loss_mot_rec: 0.0272 
+epoch:  39 niter:  33950  inner_iter:  487 
+473m 26s loss_mot_rec: 0.0255 
+epoch:  39 niter:  34000  inner_iter:  537 
+474m 6s loss_mot_rec: 0.0253 
+epoch:  39 niter:  34050  inner_iter:  587 
+474m 47s loss_mot_rec: 0.0256 
+epoch:  39 niter:  34100  inner_iter:  637 
+475m 28s loss_mot_rec: 0.0263 
+epoch:  39 niter:  34150  inner_iter:  687 
+476m 8s loss_mot_rec: 0.0261 
+epoch:  39 niter:  34200  inner_iter:  737 
+476m 49s loss_mot_rec: 0.0247 
+epoch:  39 niter:  34250  inner_iter:  787 
+477m 30s loss_mot_rec: 0.0262 
+epoch:  39 niter:  34300  inner_iter:  837 
+478m 10s loss_mot_rec: 0.0248 
+epoch:  40 niter:  34350  inner_iter:   29 
+479m 9s loss_mot_rec: 0.0256 
+epoch:  40 niter:  34400  inner_iter:   79 
+479m 49s loss_mot_rec: 0.0254 
+epoch:  40 niter:  34450  inner_iter:  129 
+480m 29s loss_mot_rec: 0.0259 
+epoch:  40 niter:  34500  inner_iter:  179 
+481m 10s loss_mot_rec: 0.0264 
+epoch:  40 niter:  34550  inner_iter:  229 
+481m 50s loss_mot_rec: 0.0262 
+epoch:  40 niter:  34600  inner_iter:  279 
+482m 30s loss_mot_rec: 0.0258 
+epoch:  40 niter:  34650  inner_iter:  329 
+483m 10s loss_mot_rec: 0.0250 
+epoch:  40 niter:  34700  inner_iter:  379 
+483m 51s loss_mot_rec: 0.0260 
+epoch:  40 niter:  34750  inner_iter:  429 
+484m 31s loss_mot_rec: 0.0254 
+epoch:  40 niter:  34800  inner_iter:  479 
+485m 11s loss_mot_rec: 0.0252 
+epoch:  40 niter:  34850  inner_iter:  529 
+485m 51s loss_mot_rec: 0.0255 
+epoch:  40 niter:  34900  inner_iter:  579 
+486m 32s loss_mot_rec: 0.0260 
+epoch:  40 niter:  34950  inner_iter:  629 
+487m 12s loss_mot_rec: 0.0247 
+epoch:  40 niter:  35000  inner_iter:  679 
+487m 52s loss_mot_rec: 0.0255 
+epoch:  40 niter:  35050  inner_iter:  729 
+488m 32s loss_mot_rec: 0.0263 
+epoch:  40 niter:  35100  inner_iter:  779 
+489m 13s loss_mot_rec: 0.0253 
+epoch:  40 niter:  35150  inner_iter:  829 
+489m 53s loss_mot_rec: 0.0268 
+epoch:  41 niter:  35200  inner_iter:   21 
+490m 52s loss_mot_rec: 0.0258 
+epoch:  41 niter:  35250  inner_iter:   71 
+491m 32s loss_mot_rec: 0.0239 
+epoch:  41 niter:  35300  inner_iter:  121 
+492m 13s loss_mot_rec: 0.0264 
+epoch:  41 niter:  35350  inner_iter:  171 
+492m 53s loss_mot_rec: 0.0252 
+epoch:  41 niter:  35400  inner_iter:  221 
+493m 33s loss_mot_rec: 0.0243 
+epoch:  41 niter:  35450  inner_iter:  271 
+494m 13s loss_mot_rec: 0.0260 
+epoch:  41 niter:  35500  inner_iter:  321 
+494m 54s loss_mot_rec: 0.0253 
+epoch:  41 niter:  35550  inner_iter:  371 
+495m 34s loss_mot_rec: 0.0254 
+epoch:  41 niter:  35600  inner_iter:  421 
+496m 14s loss_mot_rec: 0.0256 
+epoch:  41 niter:  35650  inner_iter:  471 
+496m 54s loss_mot_rec: 0.0245 
+epoch:  41 niter:  35700  inner_iter:  521 
+497m 35s loss_mot_rec: 0.0264 
+epoch:  41 niter:  35750  inner_iter:  571 
+498m 15s loss_mot_rec: 0.0255 
+epoch:  41 niter:  35800  inner_iter:  621 
+498m 55s loss_mot_rec: 0.0259 
+epoch:  41 niter:  35850  inner_iter:  671 
+499m 36s loss_mot_rec: 0.0258 
+epoch:  41 niter:  35900  inner_iter:  721 
+500m 16s loss_mot_rec: 0.0250 
+epoch:  41 niter:  35950  inner_iter:  771 
+500m 56s loss_mot_rec: 0.0257 
+epoch:  41 niter:  36000  inner_iter:  821 
+501m 37s loss_mot_rec: 0.0257 
+epoch:  42 niter:  36050  inner_iter:   13 
+502m 34s loss_mot_rec: 0.0258 
+epoch:  42 niter:  36100  inner_iter:   63 
+503m 14s loss_mot_rec: 0.0261 
+epoch:  42 niter:  36150  inner_iter:  113 
+503m 54s loss_mot_rec: 0.0249 
+epoch:  42 niter:  36200  inner_iter:  163 
+504m 35s loss_mot_rec: 0.0240 
+epoch:  42 niter:  36250  inner_iter:  213 
+505m 15s loss_mot_rec: 0.0245 
+epoch:  42 niter:  36300  inner_iter:  263 
+505m 55s loss_mot_rec: 0.0252 
+epoch:  42 niter:  36350  inner_iter:  313 
+506m 35s loss_mot_rec: 0.0236 
+epoch:  42 niter:  36400  inner_iter:  363 
+507m 15s loss_mot_rec: 0.0251 
+epoch:  42 niter:  36450  inner_iter:  413 
+507m 55s loss_mot_rec: 0.0246 
+epoch:  42 niter:  36500  inner_iter:  463 
+508m 35s loss_mot_rec: 0.0242 
+epoch:  42 niter:  36550  inner_iter:  513 
+509m 16s loss_mot_rec: 0.0251 
+epoch:  42 niter:  36600  inner_iter:  563 
+509m 56s loss_mot_rec: 0.0244 
+epoch:  42 niter:  36650  inner_iter:  613 
+510m 36s loss_mot_rec: 0.0246 
+epoch:  42 niter:  36700  inner_iter:  663 
+511m 16s loss_mot_rec: 0.0250 
+epoch:  42 niter:  36750  inner_iter:  713 
+511m 56s loss_mot_rec: 0.0245 
+epoch:  42 niter:  36800  inner_iter:  763 
+512m 36s loss_mot_rec: 0.0265 
+epoch:  42 niter:  36850  inner_iter:  813 
+513m 17s loss_mot_rec: 0.0250 
+epoch:  43 niter:  36900  inner_iter:    5 
+514m 14s loss_mot_rec: 0.0239 
+epoch:  43 niter:  36950  inner_iter:   55 
+514m 54s loss_mot_rec: 0.0257 
+epoch:  43 niter:  37000  inner_iter:  105 
+515m 34s loss_mot_rec: 0.0247 
+epoch:  43 niter:  37050  inner_iter:  155 
+516m 14s loss_mot_rec: 0.0255 
+epoch:  43 niter:  37100  inner_iter:  205 
+516m 54s loss_mot_rec: 0.0274 
+epoch:  43 niter:  37150  inner_iter:  255 
+517m 35s loss_mot_rec: 0.0267 
+epoch:  43 niter:  37200  inner_iter:  305 
+518m 15s loss_mot_rec: 0.0256 
+epoch:  43 niter:  37250  inner_iter:  355 
+518m 55s loss_mot_rec: 0.0248 
+epoch:  43 niter:  37300  inner_iter:  405 
+519m 36s loss_mot_rec: 0.0247 
+epoch:  43 niter:  37350  inner_iter:  455 
+520m 16s loss_mot_rec: 0.0243 
+epoch:  43 niter:  37400  inner_iter:  505 
+520m 56s loss_mot_rec: 0.0235 
+epoch:  43 niter:  37450  inner_iter:  555 
+521m 36s loss_mot_rec: 0.0255 
+epoch:  43 niter:  37500  inner_iter:  605 
+522m 17s loss_mot_rec: 0.0252 
+epoch:  43 niter:  37550  inner_iter:  655 
+522m 57s loss_mot_rec: 0.0258 
+epoch:  43 niter:  37600  inner_iter:  705 
+523m 37s loss_mot_rec: 0.0261 
+epoch:  43 niter:  37650  inner_iter:  755 
+524m 17s loss_mot_rec: 0.0233 
+epoch:  43 niter:  37700  inner_iter:  805 
+524m 57s loss_mot_rec: 0.0257 
+epoch:  43 niter:  37750  inner_iter:  855 
+525m 38s loss_mot_rec: 0.0248 
+epoch:  44 niter:  37800  inner_iter:   47 
+526m 35s loss_mot_rec: 0.0258 
+epoch:  44 niter:  37850  inner_iter:   97 
+527m 15s loss_mot_rec: 0.0235 
+epoch:  44 niter:  37900  inner_iter:  147 
+527m 55s loss_mot_rec: 0.0247 
+epoch:  44 niter:  37950  inner_iter:  197 
+528m 35s loss_mot_rec: 0.0252 
+epoch:  44 niter:  38000  inner_iter:  247 
+529m 16s loss_mot_rec: 0.0262 
+epoch:  44 niter:  38050  inner_iter:  297 
+529m 56s loss_mot_rec: 0.0241 
+epoch:  44 niter:  38100  inner_iter:  347 
+530m 36s loss_mot_rec: 0.0246 
+epoch:  44 niter:  38150  inner_iter:  397 
+531m 16s loss_mot_rec: 0.0250 
+epoch:  44 niter:  38200  inner_iter:  447 
+531m 56s loss_mot_rec: 0.0247 
+epoch:  44 niter:  38250  inner_iter:  497 
+532m 37s loss_mot_rec: 0.0249 
+epoch:  44 niter:  38300  inner_iter:  547 
+533m 17s loss_mot_rec: 0.0242 
+epoch:  44 niter:  38350  inner_iter:  597 
+533m 57s loss_mot_rec: 0.0249 
+epoch:  44 niter:  38400  inner_iter:  647 
+534m 37s loss_mot_rec: 0.0247 
+epoch:  44 niter:  38450  inner_iter:  697 
+535m 17s loss_mot_rec: 0.0250 
+epoch:  44 niter:  38500  inner_iter:  747 
+535m 58s loss_mot_rec: 0.0239 
+epoch:  44 niter:  38550  inner_iter:  797 
+536m 38s loss_mot_rec: 0.0242 
+epoch:  44 niter:  38600  inner_iter:  847 
+537m 18s loss_mot_rec: 0.0249 
+epoch:  45 niter:  38650  inner_iter:   39 
+538m 15s loss_mot_rec: 0.0256 
+epoch:  45 niter:  38700  inner_iter:   89 
+538m 55s loss_mot_rec: 0.0250 
+epoch:  45 niter:  38750  inner_iter:  139 
+539m 36s loss_mot_rec: 0.0241 
+epoch:  45 niter:  38800  inner_iter:  189 
+540m 16s loss_mot_rec: 0.0252 
+epoch:  45 niter:  38850  inner_iter:  239 
+540m 56s loss_mot_rec: 0.0250 
+epoch:  45 niter:  38900  inner_iter:  289 
+541m 36s loss_mot_rec: 0.0256 
+epoch:  45 niter:  38950  inner_iter:  339 
+542m 17s loss_mot_rec: 0.0251 
+epoch:  45 niter:  39000  inner_iter:  389 
+542m 57s loss_mot_rec: 0.0251 
+epoch:  45 niter:  39050  inner_iter:  439 
+543m 37s loss_mot_rec: 0.0248 
+epoch:  45 niter:  39100  inner_iter:  489 
+544m 17s loss_mot_rec: 0.0259 
+epoch:  45 niter:  39150  inner_iter:  539 
+544m 58s loss_mot_rec: 0.0258 
+epoch:  45 niter:  39200  inner_iter:  589 
+545m 38s loss_mot_rec: 0.0246 
+epoch:  45 niter:  39250  inner_iter:  639 
+546m 18s loss_mot_rec: 0.0248 
+epoch:  45 niter:  39300  inner_iter:  689 
+546m 58s loss_mot_rec: 0.0246 
+epoch:  45 niter:  39350  inner_iter:  739 
+547m 38s loss_mot_rec: 0.0247 
+epoch:  45 niter:  39400  inner_iter:  789 
+548m 18s loss_mot_rec: 0.0250 
+epoch:  45 niter:  39450  inner_iter:  839 
+548m 59s loss_mot_rec: 0.0263 
+epoch:  46 niter:  39500  inner_iter:   31 
+549m 58s loss_mot_rec: 0.0244 
+epoch:  46 niter:  39550  inner_iter:   81 
+550m 38s loss_mot_rec: 0.0248 
+epoch:  46 niter:  39600  inner_iter:  131 
+551m 19s loss_mot_rec: 0.0232 
+epoch:  46 niter:  39650  inner_iter:  181 
+551m 59s loss_mot_rec: 0.0235 
+epoch:  46 niter:  39700  inner_iter:  231 
+552m 39s loss_mot_rec: 0.0244 
+epoch:  46 niter:  39750  inner_iter:  281 
+553m 19s loss_mot_rec: 0.0236 
+epoch:  46 niter:  39800  inner_iter:  331 
+554m 0s loss_mot_rec: 0.0232 
+epoch:  46 niter:  39850  inner_iter:  381 
+554m 40s loss_mot_rec: 0.0248 
+epoch:  46 niter:  39900  inner_iter:  431 
+555m 20s loss_mot_rec: 0.0244 
+epoch:  46 niter:  39950  inner_iter:  481 
+556m 0s loss_mot_rec: 0.0271 
+epoch:  46 niter:  40000  inner_iter:  531 
+556m 41s loss_mot_rec: 0.0236 
+epoch:  46 niter:  40050  inner_iter:  581 
+557m 21s loss_mot_rec: 0.0231 
+epoch:  46 niter:  40100  inner_iter:  631 
+558m 1s loss_mot_rec: 0.0263 
+epoch:  46 niter:  40150  inner_iter:  681 
+558m 41s loss_mot_rec: 0.0255 
+epoch:  46 niter:  40200  inner_iter:  731 
+559m 22s loss_mot_rec: 0.0244 
+epoch:  46 niter:  40250  inner_iter:  781 
+560m 2s loss_mot_rec: 0.0252 
+epoch:  46 niter:  40300  inner_iter:  831 
+560m 42s loss_mot_rec: 0.0249 
+epoch:  47 niter:  40350  inner_iter:   23 
+561m 39s loss_mot_rec: 0.0256 
+epoch:  47 niter:  40400  inner_iter:   73 
+562m 19s loss_mot_rec: 0.0255 
+epoch:  47 niter:  40450  inner_iter:  123 
+563m 0s loss_mot_rec: 0.0248 
+epoch:  47 niter:  40500  inner_iter:  173 
+563m 40s loss_mot_rec: 0.0241 
+epoch:  47 niter:  40550  inner_iter:  223 
+564m 20s loss_mot_rec: 0.0244 
+epoch:  47 niter:  40600  inner_iter:  273 
+565m 0s loss_mot_rec: 0.0239 
+epoch:  47 niter:  40650  inner_iter:  323 
+565m 41s loss_mot_rec: 0.0244 
+epoch:  47 niter:  40700  inner_iter:  373 
+566m 21s loss_mot_rec: 0.0244 
+epoch:  47 niter:  40750  inner_iter:  423 
+567m 1s loss_mot_rec: 0.0254 
+epoch:  47 niter:  40800  inner_iter:  473 
+567m 43s loss_mot_rec: 0.0244 
+epoch:  47 niter:  40850  inner_iter:  523 
+568m 24s loss_mot_rec: 0.0245 
+epoch:  47 niter:  40900  inner_iter:  573 
+569m 6s loss_mot_rec: 0.0243 
+epoch:  47 niter:  40950  inner_iter:  623 
+569m 47s loss_mot_rec: 0.0249 
+epoch:  47 niter:  41000  inner_iter:  673 
+570m 29s loss_mot_rec: 0.0251 
+epoch:  47 niter:  41050  inner_iter:  723 
+571m 10s loss_mot_rec: 0.0247 
+epoch:  47 niter:  41100  inner_iter:  773 
+571m 52s loss_mot_rec: 0.0245 
+epoch:  47 niter:  41150  inner_iter:  823 
+572m 33s loss_mot_rec: 0.0244 
+epoch:  48 niter:  41200  inner_iter:   15 
+573m 40s loss_mot_rec: 0.0237 
+epoch:  48 niter:  41250  inner_iter:   65 
+574m 22s loss_mot_rec: 0.0251 
+epoch:  48 niter:  41300  inner_iter:  115 
+575m 3s loss_mot_rec: 0.0252 
+epoch:  48 niter:  41350  inner_iter:  165 
+575m 44s loss_mot_rec: 0.0256 
+epoch:  48 niter:  41400  inner_iter:  215 
+576m 25s loss_mot_rec: 0.0243 
+epoch:  48 niter:  41450  inner_iter:  265 
+577m 6s loss_mot_rec: 0.0250 
+epoch:  48 niter:  41500  inner_iter:  315 
+577m 47s loss_mot_rec: 0.0250 
+epoch:  48 niter:  41550  inner_iter:  365 
+578m 28s loss_mot_rec: 0.0243 
+epoch:  48 niter:  41600  inner_iter:  415 
+579m 9s loss_mot_rec: 0.0245 
+epoch:  48 niter:  41650  inner_iter:  465 
+579m 50s loss_mot_rec: 0.0236 
+epoch:  48 niter:  41700  inner_iter:  515 
+580m 31s loss_mot_rec: 0.0257 
+epoch:  48 niter:  41750  epoch:   0 niter:     50  inner_iter:   49 
+1m 57s loss_mot_rec: 0.8726 
+epoch:   0 niter:     50  inner_iter:   49 
+0m 42s loss_mot_rec: 0.8763 
+epoch:   0 niter:    100  inner_iter:   99 
+1m 23s loss_mot_rec: 0.6194 
+epoch:   0 niter:    150  inner_iter:  149 
+2m 4s loss_mot_rec: 0.4215 
+epoch:   0 niter:    200  inner_iter:  199 
+2m 45s loss_mot_rec: 0.2977 
+epoch:   0 niter:    250  inner_iter:  249 
+3m 25s loss_mot_rec: 0.2236 
+epoch:   0 niter:    300  inner_iter:  299 
+4m 6s loss_mot_rec: 0.1870 
+epoch:   0 niter:    350  inner_iter:  349 
+4m 46s loss_mot_rec: 0.1587 
+epoch:   0 niter:    400  inner_iter:  399 
+5m 27s loss_mot_rec: 0.1437 
+epoch:   0 niter:    450  inner_iter:  449 
+6m 8s loss_mot_rec: 0.1280 
+epoch:   0 niter:    500  inner_iter:  499 
+7m 33s loss_mot_rec: 0.1178 
+epoch:   0 niter:    550  inner_iter:  549 
+9m 31s loss_mot_rec: 0.1071 
+epoch:   0 niter:    600  inner_iter:  599 
+11m 6s loss_mot_rec: 0.1011 
+epoch:   0 niter:    650  inner_iter:  649 
+11m 47s loss_mot_rec: 0.0939 
+epoch:   0 niter:    700  inner_iter:  699 
+12m 27s loss_mot_rec: 0.0868 
+epoch:   0 niter:    750  inner_iter:  749 
+13m 8s loss_mot_rec: 0.0825 
+epoch:   0 niter:    800  inner_iter:  799 
+13m 49s loss_mot_rec: 0.0782 
+epoch:   0 niter:    850  inner_iter:  849 
+14m 30s loss_mot_rec: 0.0784 
+epoch:   1 niter:    900  inner_iter:   41 
+15m 30s loss_mot_rec: 0.0745 
+epoch:   1 niter:    950  inner_iter:   91 
+16m 11s loss_mot_rec: 0.0718 
+epoch:   1 niter:   1000  inner_iter:  141 
+16m 52s loss_mot_rec: 0.0708 
+epoch:   1 niter:   1050  inner_iter:  191 
+17m 32s loss_mot_rec: 0.0689 
+epoch:   1 niter:   1100  inner_iter:  241 
+18m 13s loss_mot_rec: 0.0676 
+epoch:   1 niter:   1150  inner_iter:  291 
+19m 43s loss_mot_rec: 0.0661 
+epoch:   1 niter:   1200  inner_iter:  341 
+21m 33s loss_mot_rec: 0.0643 
+epoch:   1 niter:   1250  inner_iter:  391 
+23m 12s loss_mot_rec: 0.0641 
+epoch:   1 niter:   1300  inner_iter:  441 
+23m 53s loss_mot_rec: 0.0611 
+epoch:   1 niter:   1350  inner_iter:  491 
+24m 34s loss_mot_rec: 0.0645 
+epoch:   1 niter:   1400  inner_iter:  541 
+25m 15s loss_mot_rec: 0.0620 
+epoch:   1 niter:   1450  inner_iter:  591 
+25m 55s loss_mot_rec: 0.0601 
+epoch:   1 niter:   1500  inner_iter:  641 
+26m 36s loss_mot_rec: 0.0615 
+epoch:   1 niter:   1550  inner_iter:  691 
+27m 18s loss_mot_rec: 0.0610 
+epoch:   1 niter:   1600  inner_iter:  741 
+27m 58s loss_mot_rec: 0.0600 
+epoch:   1 niter:   1650  inner_iter:  791 
+28m 40s loss_mot_rec: 0.0611 
+epoch:   1 niter:   1700  inner_iter:  841 
+29m 21s loss_mot_rec: 0.0584 
+epoch:   2 niter:   1750  inner_iter:   33 
+30m 40s loss_mot_rec: 0.0557 
+epoch:   2 niter:   1800  inner_iter:   83 
+31m 22s loss_mot_rec: 0.0610 
+epoch:   2 niter:   1850  inner_iter:  133 
+33m 21s loss_mot_rec: 0.0542 
+epoch:   2 niter:   1900  inner_iter:  183 
+34m 28s loss_mot_rec: 0.0531 
+epoch:   2 niter:   1950  inner_iter:  233 
+35m 8s loss_mot_rec: 0.0519 
+epoch:   2 niter:   2000  inner_iter:  283 
+35m 49s loss_mot_rec: 0.0535 
+epoch:   2 niter:   2050  inner_iter:  333 
+36m 30s loss_mot_rec: 0.0543 
+epoch:   2 niter:   2100  inner_iter:  383 
+37m 11s loss_mot_rec: 0.0553 
+epoch:   2 niter:   2150  inner_iter:  433 
+38m 51s loss_mot_rec: 0.0562 
+epoch:   2 niter:   2200  inner_iter:  483 
+40m 49s loss_mot_rec: 0.0529 
+epoch:   2 niter:   2250  inner_iter:  533 
+42m 46s loss_mot_rec: 0.0587 
+epoch:   2 niter:   2300  inner_iter:  583 
+44m 44s loss_mot_rec: 0.0534 
+epoch:   2 niter:   2350  inner_iter:  633 
+46m 43s loss_mot_rec: 0.0508 
+epoch:   2 niter:   2400  inner_iter:  683 
+48m 42s loss_mot_rec: 0.0537 
+epoch:   2 niter:   2450  inner_iter:  733 
+50m 40s loss_mot_rec: 0.0496 
+epoch:   2 niter:   2500  inner_iter:  783 
+52m 37s loss_mot_rec: 0.0491 
+epoch:   2 niter:   2550  inner_iter:  833 
+54m 36s loss_mot_rec: 0.0484 
+epoch:   3 niter:   2600  inner_iter:   25 
+56m 49s loss_mot_rec: 0.0538 
+epoch:   3 niter:   2650  inner_iter:   75 
+58m 47s loss_mot_rec: 0.0500 
+epoch:   3 niter:   2700  inner_iter:  125 
+60m 46s loss_mot_rec: 0.0505 
+epoch:   3 niter:   2750  inner_iter:  175 
+62m 44s loss_mot_rec: 0.0486 
+epoch:   3 niter:   2800  inner_iter:  225 
+64m 42s loss_mot_rec: 0.0465 
+epoch:   3 niter:   2850  inner_iter:  275 
+66m 41s loss_mot_rec: 0.0487 
+epoch:   3 niter:   2900  inner_iter:  325 
+68m 38s loss_mot_rec: 0.0476 
+epoch:   3 niter:   2950  inner_iter:  375 
+70m 37s loss_mot_rec: 0.0491 
+epoch:   3 niter:   3000  inner_iter:  425 
+72m 42s loss_mot_rec: 0.0481 
+epoch:   3 niter:   3050  inner_iter:  475 
+74m 46s loss_mot_rec: 0.0482 
+epoch:   3 niter:   3100  inner_iter:  525 
+76m 53s loss_mot_rec: 0.0488 
+epoch:   3 niter:   3150  inner_iter:  575 
+79m 0s loss_mot_rec: 0.0487 
+epoch:   3 niter:   3200  inner_iter:  625 
+81m 7s loss_mot_rec: 0.0477 
+epoch:   3 niter:   3250  inner_iter:  675 
+83m 14s loss_mot_rec: 0.0475 
+epoch:   3 niter:   3300  inner_iter:  725 
+85m 21s loss_mot_rec: 0.0450 
+epoch:   3 niter:   3350  inner_iter:  775 
+87m 27s loss_mot_rec: 0.0462 
+epoch:   3 niter:   3400  inner_iter:  825 
+89m 32s loss_mot_rec: 0.0461 
+epoch:   4 niter:   3450  inner_iter:   17 
+91m 54s loss_mot_rec: 0.0469 
+epoch:   4 niter:   3500  inner_iter:   67 
+94m 2s loss_mot_rec: 0.0452 
+epoch:   4 niter:   3550  inner_iter:  117 
+96m 9s loss_mot_rec: 0.0491 
+epoch:   4 niter:   3600  inner_iter:  167 
+98m 16s loss_mot_rec: 0.0464 
+epoch:   4 niter:   3650  inner_iter:  217 
+100m 23s loss_mot_rec: 0.0446 
+epoch:   4 niter:   3700  inner_iter:  267 
+101m 43s loss_mot_rec: 0.0464 
+epoch:   4 niter:   3750  inner_iter:  317 
+102m 23s loss_mot_rec: 0.0465 
+epoch:   4 niter:   3800  inner_iter:  367 
+103m 4s loss_mot_rec: 0.0474 
+epoch:   4 niter:   3850  inner_iter:  417 
+103m 44s loss_mot_rec: 0.0444 
+epoch:   4 niter:   3900  inner_iter:  467 
+104m 25s loss_mot_rec: 0.0464 
+epoch:   4 niter:   3950  inner_iter:  517 
+105m 5s loss_mot_rec: 0.0474 
+epoch:   4 niter:   4000  inner_iter:  567 
+105m 46s loss_mot_rec: 0.0432 
+epoch:   4 niter:   4050  inner_iter:  617 
+106m 27s loss_mot_rec: 0.0433 
+epoch:   4 niter:   4100  inner_iter:  667 
+107m 8s loss_mot_rec: 0.0439 
+epoch:   4 niter:   4150  inner_iter:  717 
+107m 48s loss_mot_rec: 0.0443 
+epoch:   4 niter:   4200  inner_iter:  767 
+108m 29s loss_mot_rec: 0.0452 
+epoch:   4 niter:   4250  inner_iter:  817 
+109m 9s loss_mot_rec: 0.0448 
+epoch:   5 niter:   4300  inner_iter:    9 
+110m 6s loss_mot_rec: 0.0454 
+epoch:   5 niter:   4350  inner_iter:   59 
+110m 47s loss_mot_rec: 0.0433 
+epoch:   5 niter:   4400  inner_iter:  109 
+111m 27s loss_mot_rec: 0.0444 
+epoch:   5 niter:   4450  inner_iter:  159 
+112m 8s loss_mot_rec: 0.0427 
+epoch:   5 niter:   4500  inner_iter:  209 
+112m 48s loss_mot_rec: 0.0427 
+epoch:   5 niter:   4550  inner_iter:  259 
+113m 29s loss_mot_rec: 0.0439 
+epoch:   5 niter:   4600  inner_iter:  309 
+114m 9s loss_mot_rec: 0.0415 
+epoch:   5 niter:   4650  inner_iter:  359 
+114m 50s loss_mot_rec: 0.0421 
+epoch:   5 niter:   4700  inner_iter:  409 
+115m 30s loss_mot_rec: 0.0413 
+epoch:   5 niter:   4750  inner_iter:  459 
+116m 10s loss_mot_rec: 0.0401 
+epoch:   5 niter:   4800  inner_iter:  509 
+116m 51s loss_mot_rec: 0.0414 
+epoch:   5 niter:   4850  inner_iter:  559 
+117m 31s loss_mot_rec: 0.0433 
+epoch:   5 niter:   4900  inner_iter:  609 
+118m 12s loss_mot_rec: 0.0419 
+epoch:   5 niter:   4950  inner_iter:  659 
+118m 52s loss_mot_rec: 0.0428 
+epoch:   5 niter:   5000  inner_iter:  709 
+119m 33s loss_mot_rec: 0.0423 
+epoch:   5 niter:   5050  inner_iter:  759 
+120m 13s loss_mot_rec: 0.0426 
+epoch:   5 niter:   5100  inner_iter:  809 
+120m 54s loss_mot_rec: 0.0433 
+epoch:   6 niter:   5150  inner_iter:    1 
+121m 53s loss_mot_rec: 0.0415 
+epoch:   6 niter:   5200  inner_iter:   51 
+122m 33s loss_mot_rec: 0.0410 
+epoch:   6 niter:   5250  inner_iter:  101 
+123m 14s loss_mot_rec: 0.0417 
+epoch:   6 niter:   5300  inner_iter:  151 
+123m 54s loss_mot_rec: 0.0435 
+epoch:   6 niter:   5350  inner_iter:  201 
+124m 35s loss_mot_rec: 0.0411 
+epoch:   6 niter:   5400  inner_iter:  251 
+125m 15s loss_mot_rec: 0.0418 
+epoch:   6 niter:   5450  inner_iter:  301 
+125m 55s loss_mot_rec: 0.0402 
+epoch:   6 niter:   5500  inner_iter:  351 
+126m 36s loss_mot_rec: 0.0412 
+epoch:   6 niter:   5550  inner_iter:  401 
+127m 16s loss_mot_rec: 0.0374 
+epoch:   6 niter:   5600  inner_iter:  451 
+127m 57s loss_mot_rec: 0.0433 
+epoch:   6 niter:   5650  inner_iter:  501 
+128m 38s loss_mot_rec: 0.0419 
+epoch:   6 niter:   5700  inner_iter:  551 
+129m 18s loss_mot_rec: 0.0408 
+epoch:   6 niter:   5750  inner_iter:  601 
+129m 59s loss_mot_rec: 0.0419 
+epoch:   6 niter:   5800  inner_iter:  651 
+130m 39s loss_mot_rec: 0.0406 
+epoch:   6 niter:   5850  inner_iter:  701 
+131m 20s loss_mot_rec: 0.0399 
+epoch:   6 niter:   5900  inner_iter:  751 
+132m 0s loss_mot_rec: 0.0403 
+epoch:   6 niter:   5950  inner_iter:  801 
+132m 41s loss_mot_rec: 0.0397 
+epoch:   6 niter:   6000  inner_iter:  851 
+133m 22s loss_mot_rec: 0.0406 
+epoch:   7 niter:   6050  inner_iter:   43 
+134m 19s loss_mot_rec: 0.0409 
+epoch:   7 niter:   6100  inner_iter:   93 
+135m 0s loss_mot_rec: 0.0407 
+epoch:   7 niter:   6150  inner_iter:  143 
+135m 40s loss_mot_rec: 0.0411 
+epoch:   7 niter:   6200  inner_iter:  193 
+136m 21s loss_mot_rec: 0.0393 
+epoch:   7 niter:   6250  inner_iter:  243 
+137m 1s loss_mot_rec: 0.0385 
+epoch:   7 niter:   6300  inner_iter:  293 
+137m 42s loss_mot_rec: 0.0383 
+epoch:   7 niter:   6350  inner_iter:  343 
+138m 22s loss_mot_rec: 0.0388 
+epoch:   7 niter:   6400  inner_iter:  393 
+139m 2s loss_mot_rec: 0.0385 
+epoch:   7 niter:   6450  inner_iter:  443 
+139m 43s loss_mot_rec: 0.0405 
+epoch:   7 niter:   6500  inner_iter:  493 
+140m 23s loss_mot_rec: 0.0376 
+epoch:   7 niter:   6550  inner_iter:  543 
+141m 4s loss_mot_rec: 0.0405 
+epoch:   7 niter:   6600  inner_iter:  593 
+141m 44s loss_mot_rec: 0.0397 
+epoch:   7 niter:   6650  inner_iter:  643 
+142m 25s loss_mot_rec: 0.0387 
+epoch:   7 niter:   6700  inner_iter:  693 
+143m 6s loss_mot_rec: 0.0393 
+epoch:   7 niter:   6750  inner_iter:  743 
+143m 47s loss_mot_rec: 0.0373 
+epoch:   7 niter:   6800  inner_iter:  793 
+144m 27s loss_mot_rec: 0.0382 
+epoch:   7 niter:   6850  inner_iter:  843 
+145m 8s loss_mot_rec: 0.0371 
+epoch:   8 niter:   6900  inner_iter:   35 
+146m 5s loss_mot_rec: 0.0365 
+epoch:   8 niter:   6950  inner_iter:   85 
+146m 46s loss_mot_rec: 0.0405 
+epoch:   8 niter:   7000  inner_iter:  135 
+147m 26s loss_mot_rec: 0.0379 
+epoch:   8 niter:   7050  inner_iter:  185 
+148m 7s loss_mot_rec: 0.0379 
+epoch:   8 niter:   7100  inner_iter:  235 
+148m 48s loss_mot_rec: 0.0384 
+epoch:   8 niter:   7150  inner_iter:  285 
+149m 29s loss_mot_rec: 0.0382 
+epoch:   8 niter:   7200  inner_iter:  335 
+150m 9s loss_mot_rec: 0.0392 
+epoch:   8 niter:   7250  inner_iter:  385 
+150m 50s loss_mot_rec: 0.0374 
+epoch:   8 niter:   7300  inner_iter:  435 
+151m 31s loss_mot_rec: 0.0375 
+epoch:   8 niter:   7350  inner_iter:  485 
+152m 12s loss_mot_rec: 0.0400 
+epoch:   8 niter:   7400  inner_iter:  535 
+152m 52s loss_mot_rec: 0.0391 
+epoch:   8 niter:   7450  inner_iter:  585 
+153m 35s loss_mot_rec: 0.0390 
+epoch:   8 niter:   7500  inner_iter:  635 
+154m 17s loss_mot_rec: 0.0388 
+epoch:   8 niter:   7550  inner_iter:  685 
+154m 58s loss_mot_rec: 0.0363 
+epoch:   8 niter:   7600  inner_iter:  735 
+155m 39s loss_mot_rec: 0.0380 
+epoch:   8 niter:   7650  inner_iter:  785 
+156m 22s loss_mot_rec: 0.0369 
+epoch:   8 niter:   7700  inner_iter:  835 
+157m 2s loss_mot_rec: 0.0368 
+epoch:   9 niter:   7750  inner_iter:   27 
+157m 59s loss_mot_rec: 0.0372 
+epoch:   9 niter:   7800  inner_iter:   77 
+158m 40s loss_mot_rec: 0.0359 
+epoch:   9 niter:   7850  inner_iter:  127 
+159m 20s loss_mot_rec: 0.0372 
+epoch:   9 niter:   7900  inner_iter:  177 
+160m 1s loss_mot_rec: 0.0370 
+epoch:   9 niter:   7950  inner_iter:  227 
+160m 42s loss_mot_rec: 0.0367 
+epoch:   9 niter:   8000  inner_iter:  277 
+161m 22s loss_mot_rec: 0.0348 
+epoch:   9 niter:   8050  inner_iter:  327 
+162m 3s loss_mot_rec: 0.0379 
+epoch:   9 niter:   8100  inner_iter:  377 
+162m 44s loss_mot_rec: 0.0366 
+epoch:   9 niter:   8150  inner_iter:  427 
+163m 24s loss_mot_rec: 0.0369 
+epoch:   9 niter:   8200  inner_iter:  477 
+164m 5s loss_mot_rec: 0.0385 
+epoch:   9 niter:   8250  inner_iter:  527 
+164m 46s loss_mot_rec: 0.0364 
+epoch:   9 niter:   8300  inner_iter:  577 
+165m 27s loss_mot_rec: 0.0370 
+epoch:   9 niter:   8350  inner_iter:  627 
+166m 7s loss_mot_rec: 0.0365 
+epoch:   9 niter:   8400  inner_iter:  677 
+166m 48s loss_mot_rec: 0.0360 
+epoch:   9 niter:   8450  inner_iter:  727 
+167m 29s loss_mot_rec: 0.0395 
+epoch:   9 niter:   8500  inner_iter:  777 
+168m 9s loss_mot_rec: 0.0374 
+epoch:   9 niter:   8550  inner_iter:  827 
+168m 50s loss_mot_rec: 0.0356 
+epoch:  10 niter:   8600  inner_iter:   19 
+169m 48s loss_mot_rec: 0.0351 
+epoch:  10 niter:   8650  inner_iter:   69 
+170m 28s loss_mot_rec: 0.0352 
+epoch:  10 niter:   8700  inner_iter:  119 
+171m 9s loss_mot_rec: 0.0365 
+epoch:  10 niter:   8750  inner_iter:  169 
+171m 50s loss_mot_rec: 0.0398 
+epoch:  10 niter:   8800  inner_iter:  219 
+172m 30s loss_mot_rec: 0.0354 
+epoch:  10 niter:   8850  inner_iter:  269 
+173m 11s loss_mot_rec: 0.0371 
+epoch:  10 niter:   8900  inner_iter:  319 
+173m 52s loss_mot_rec: 0.0375 
+epoch:  10 niter:   8950  inner_iter:  369 
+174m 32s loss_mot_rec: 0.0352 
+epoch:  10 niter:   9000  inner_iter:  419 
+175m 13s loss_mot_rec: 0.0367 
+epoch:  10 niter:   9050  inner_iter:  469 
+175m 54s loss_mot_rec: 0.0375 
+epoch:  10 niter:   9100  inner_iter:  519 
+176m 34s loss_mot_rec: 0.0373 
+epoch:  10 niter:   9150  inner_iter:  569 
+177m 15s loss_mot_rec: 0.0353 
+epoch:  10 niter:   9200  inner_iter:  619 
+177m 55s loss_mot_rec: 0.0360 
+epoch:  10 niter:   9250  inner_iter:  669 
+178m 36s loss_mot_rec: 0.0349 
+epoch:  10 niter:   9300  inner_iter:  719 
+179m 16s loss_mot_rec: 0.0359 
+epoch:  10 niter:   9350  inner_iter:  769 
+179m 57s loss_mot_rec: 0.0365 
+epoch:  10 niter:   9400  inner_iter:  819 
+180m 37s loss_mot_rec: 0.0364 
+epoch:  11 niter:   9450  inner_iter:   11 
+181m 37s loss_mot_rec: 0.0340 
+epoch:  11 niter:   9500  inner_iter:   61 
+182m 18s loss_mot_rec: 0.0340 
+epoch:  11 niter:   9550  inner_iter:  111 
+182m 58s loss_mot_rec: 0.0343 
+epoch:  11 niter:   9600  inner_iter:  161 
+183m 39s loss_mot_rec: 0.0367 
+epoch:  11 niter:   9650  inner_iter:  211 
+184m 19s loss_mot_rec: 0.0363 
+epoch:  11 niter:   9700  inner_iter:  261 
+185m 0s loss_mot_rec: 0.0360 
+epoch:  11 niter:   9750  inner_iter:  311 
+185m 40s loss_mot_rec: 0.0340 
+epoch:  11 niter:   9800  inner_iter:  361 
+186m 21s loss_mot_rec: 0.0362 
+epoch:  11 niter:   9850  inner_iter:  411 
+187m 1s loss_mot_rec: 0.0350 
+epoch:  11 niter:   9900  inner_iter:  461 
+187m 42s loss_mot_rec: 0.0366 
+epoch:  11 niter:   9950  inner_iter:  511 
+188m 23s loss_mot_rec: 0.0348 
+epoch:  11 niter:  10000  inner_iter:  561 
+189m 4s loss_mot_rec: 0.0360 
+epoch:  11 niter:  10050  inner_iter:  611 
+189m 44s loss_mot_rec: 0.0360 
+epoch:  11 niter:  10100  inner_iter:  661 
+190m 25s loss_mot_rec: 0.0370 
+epoch:  11 niter:  10150  inner_iter:  711 
+191m 5s loss_mot_rec: 0.0369 
+epoch:  11 niter:  10200  inner_iter:  761 
+191m 46s loss_mot_rec: 0.0351 
+epoch:  11 niter:  10250  inner_iter:  811 
+192m 26s loss_mot_rec: 0.0352 
+epoch:  12 niter:  10300  inner_iter:    3 
+193m 23s loss_mot_rec: 0.0347 
+epoch:  12 niter:  10350  inner_iter:   53 
+194m 4s loss_mot_rec: 0.0358 
+epoch:  12 niter:  10400  inner_iter:  103 
+194m 44s loss_mot_rec: 0.0346 
+epoch:  12 niter:  10450  inner_iter:  153 
+195m 25s loss_mot_rec: 0.0345 
+epoch:  12 niter:  10500  inner_iter:  203 
+196m 5s loss_mot_rec: 0.0351 
+epoch:  12 niter:  10550  inner_iter:  253 
+196m 46s loss_mot_rec: 0.0357 
+epoch:  12 niter:  10600  inner_iter:  303 
+197m 26s loss_mot_rec: 0.0346 
+epoch:  12 niter:  10650  inner_iter:  353 
+198m 6s loss_mot_rec: 0.0350 
+epoch:  12 niter:  10700  inner_iter:  403 
+198m 47s loss_mot_rec: 0.0340 
+epoch:  12 niter:  10750  inner_iter:  453 
+199m 27s loss_mot_rec: 0.0355 
+epoch:  12 niter:  10800  inner_iter:  503 
+200m 8s loss_mot_rec: 0.0342 
+epoch:  12 niter:  10850  inner_iter:  553 
+200m 48s loss_mot_rec: 0.0349 
+epoch:  12 niter:  10900  inner_iter:  603 
+201m 28s loss_mot_rec: 0.0369 
+epoch:  12 niter:  10950  inner_iter:  653 
+202m 9s loss_mot_rec: 0.0353 
+epoch:  12 niter:  11000  inner_iter:  703 
+202m 49s loss_mot_rec: 0.0345 
+epoch:  12 niter:  11050  inner_iter:  753 
+203m 29s loss_mot_rec: 0.0366 
+epoch:  12 niter:  11100  inner_iter:  803 
+204m 10s loss_mot_rec: 0.0356 
+epoch:  12 niter:  11150  inner_iter:  853 
+204m 50s loss_mot_rec: 0.0342 
+epoch:  13 niter:  11200  inner_iter:   45 
+205m 47s loss_mot_rec: 0.0342 
+epoch:  13 niter:  11250  inner_iter:   95 
+206m 28s loss_mot_rec: 0.0339 
+epoch:  13 niter:  11300  inner_iter:  145 
+207m 8s loss_mot_rec: 0.0340 
+epoch:  13 niter:  11350  inner_iter:  195 
+207m 49s loss_mot_rec: 0.0329 
+epoch:  13 niter:  11400  inner_iter:  245 
+208m 30s loss_mot_rec: 0.0325 
+epoch:  13 niter:  11450  inner_iter:  295 
+209m 10s loss_mot_rec: 0.0340 
+epoch:  13 niter:  11500  inner_iter:  345 
+209m 51s loss_mot_rec: 0.0335 
+epoch:  13 niter:  11550  inner_iter:  395 
+210m 31s loss_mot_rec: 0.0335 
+epoch:  13 niter:  11600  inner_iter:  445 
+211m 12s loss_mot_rec: 0.0348 
+epoch:  13 niter:  11650  inner_iter:  495 
+211m 52s loss_mot_rec: 0.0347 
+epoch:  13 niter:  11700  inner_iter:  545 
+212m 33s loss_mot_rec: 0.0322 
+epoch:  13 niter:  11750  inner_iter:  595 
+213m 13s loss_mot_rec: 0.0342 
+epoch:  13 niter:  11800  inner_iter:  645 
+213m 54s loss_mot_rec: 0.0333 
+epoch:  13 niter:  11850  inner_iter:  695 
+214m 34s loss_mot_rec: 0.0339 
+epoch:  13 niter:  11900  inner_iter:  745 
+215m 15s loss_mot_rec: 0.0327 
+epoch:  13 niter:  11950  inner_iter:  795 
+215m 55s loss_mot_rec: 0.0334 
+epoch:  13 niter:  12000  inner_iter:  845 
+216m 36s loss_mot_rec: 0.0324 
+epoch:  14 niter:  12050  inner_iter:   37 
+217m 33s loss_mot_rec: 0.0320 
+epoch:  14 niter:  12100  inner_iter:   87 
+218m 14s loss_mot_rec: 0.0331 
+epoch:  14 niter:  12150  inner_iter:  137 
+218m 54s loss_mot_rec: 0.0330 
+epoch:  14 niter:  12200  inner_iter:  187 
+219m 35s loss_mot_rec: 0.0330 
+epoch:  14 niter:  12250  inner_iter:  237 
+220m 16s loss_mot_rec: 0.0325 
+epoch:  14 niter:  12300  inner_iter:  287 
+220m 57s loss_mot_rec: 0.0331 
+epoch:  14 niter:  12350  inner_iter:  337 
+221m 37s loss_mot_rec: 0.0332 
+epoch:  14 niter:  12400  inner_iter:  387 
+222m 18s loss_mot_rec: 0.0337 
+epoch:  14 niter:  12450  inner_iter:  437 
+222m 59s loss_mot_rec: 0.0332 
+epoch:  14 niter:  12500  inner_iter:  487 
+223m 40s loss_mot_rec: 0.0330 
+epoch:  14 niter:  12550  inner_iter:  537 
+224m 20s loss_mot_rec: 0.0337 
+epoch:  14 niter:  12600  inner_iter:  587 
+225m 1s loss_mot_rec: 0.0336 
+epoch:  14 niter:  12650  inner_iter:  637 
+225m 42s loss_mot_rec: 0.0341 
+epoch:  14 niter:  12700  inner_iter:  687 
+226m 23s loss_mot_rec: 0.0333 
+epoch:  14 niter:  12750  inner_iter:  737 
+227m 3s loss_mot_rec: 0.0330 
+epoch:  14 niter:  12800  inner_iter:  787 
+227m 44s loss_mot_rec: 0.0326 
+epoch:  14 niter:  12850  inner_iter:  837 
+228m 25s loss_mot_rec: 0.0318 
+epoch:  15 niter:  12900  inner_iter:   29 
+229m 22s loss_mot_rec: 0.0331 
+epoch:  15 niter:  12950  inner_iter:   79 
+230m 3s loss_mot_rec: 0.0333 
+epoch:  15 niter:  13000  inner_iter:  129 
+230m 43s loss_mot_rec: 0.0323 
+epoch:  15 niter:  13050  inner_iter:  179 
+231m 23s loss_mot_rec: 0.0349 
+epoch:  15 niter:  13100  inner_iter:  229 
+232m 4s loss_mot_rec: 0.0337 
+epoch:  15 niter:  13150  inner_iter:  279 
+232m 44s loss_mot_rec: 0.0323 
+epoch:  15 niter:  13200  inner_iter:  329 
+233m 24s loss_mot_rec: 0.0319 
+epoch:  15 niter:  13250  inner_iter:  379 
+234m 5s loss_mot_rec: 0.0322 
+epoch:  15 niter:  13300  inner_iter:  429 
+234m 45s loss_mot_rec: 0.0338 
+epoch:  15 niter:  13350  inner_iter:  479 
+235m 26s loss_mot_rec: 0.0316 
+epoch:  15 niter:  13400  inner_iter:  529 
+236m 6s loss_mot_rec: 0.0319 
+epoch:  15 niter:  13450  inner_iter:  579 
+236m 47s loss_mot_rec: 0.0342 
+epoch:  15 niter:  13500  inner_iter:  629 
+237m 27s loss_mot_rec: 0.0318 
+epoch:  15 niter:  13550  inner_iter:  679 
+238m 8s loss_mot_rec: 0.0305 
+epoch:  15 niter:  13600  inner_iter:  729 
+238m 48s loss_mot_rec: 0.0326 
+epoch:  15 niter:  13650  inner_iter:  779 
+239m 29s loss_mot_rec: 0.0336 
+epoch:  15 niter:  13700  inner_iter:  829 
+240m 9s loss_mot_rec: 0.0331 
+epoch:  16 niter:  13750  inner_iter:   21 
+241m 9s loss_mot_rec: 0.0322 
+epoch:  16 niter:  13800  inner_iter:   71 
+241m 50s loss_mot_rec: 0.0334 
+epoch:  16 niter:  13850  inner_iter:  121 
+242m 30s loss_mot_rec: 0.0311 
+epoch:  16 niter:  13900  inner_iter:  171 
+243m 11s loss_mot_rec: 0.0312 
+epoch:  16 niter:  13950  inner_iter:  221 
+243m 51s loss_mot_rec: 0.0330 
+epoch:  16 niter:  14000  inner_iter:  271 
+244m 31s loss_mot_rec: 0.0327 
+epoch:  16 niter:  14050  inner_iter:  321 
+245m 12s loss_mot_rec: 0.0322 
+epoch:  16 niter:  14100  inner_iter:  371 
+245m 53s loss_mot_rec: 0.0337 
+epoch:  16 niter:  14150  inner_iter:  421 
+246m 33s loss_mot_rec: 0.0307 
+epoch:  16 niter:  14200  inner_iter:  471 
+247m 14s loss_mot_rec: 0.0295 
+epoch:  16 niter:  14250  inner_iter:  521 
+247m 54s loss_mot_rec: 0.0316 
+epoch:  16 niter:  14300  inner_iter:  571 
+248m 35s loss_mot_rec: 0.0327 
+epoch:  16 niter:  14350  inner_iter:  621 
+249m 15s loss_mot_rec: 0.0311 
+epoch:  16 niter:  14400  inner_iter:  671 
+249m 56s loss_mot_rec: 0.0327 
+epoch:  16 niter:  14450  inner_iter:  721 
+250m 37s loss_mot_rec: 0.0321 
+epoch:  16 niter:  14500  inner_iter:  771 
+251m 17s loss_mot_rec: 0.0300 
+epoch:  16 niter:  14550  inner_iter:  821 
+251m 57s loss_mot_rec: 0.0332 
+epoch:  17 niter:  14600  inner_iter:   13 
+252m 55s loss_mot_rec: 0.0298 
+epoch:  17 niter:  14650  inner_iter:   63 
+253m 35s loss_mot_rec: 0.0317 
+epoch:  17 niter:  14700  inner_iter:  113 
+254m 15s loss_mot_rec: 0.0325 
+epoch:  17 niter:  14750  inner_iter:  163 
+254m 56s loss_mot_rec: 0.0330 
+epoch:  17 niter:  14800  inner_iter:  213 
+255m 36s loss_mot_rec: 0.0332 
+epoch:  17 niter:  14850  inner_iter:  263 
+256m 17s loss_mot_rec: 0.0357 
+epoch:  17 niter:  14900  inner_iter:  313 
+256m 57s loss_mot_rec: 0.0376 
+epoch:  17 niter:  14950  inner_iter:  363 
+257m 38s loss_mot_rec: 0.0336 
+epoch:  17 niter:  15000  inner_iter:  413 
+258m 18s loss_mot_rec: 0.0324 
+epoch:  17 niter:  15050  inner_iter:  463 
+258m 59s loss_mot_rec: 0.0316 
+epoch:  17 niter:  15100  inner_iter:  513 
+259m 39s loss_mot_rec: 0.0313 
+epoch:  17 niter:  15150  inner_iter:  563 
+260m 20s loss_mot_rec: 0.0313 
+epoch:  17 niter:  15200  inner_iter:  613 
+261m 1s loss_mot_rec: 0.0318 
+epoch:  17 niter:  15250  inner_iter:  663 
+261m 42s loss_mot_rec: 0.0308 
+epoch:  17 niter:  15300  inner_iter:  713 
+262m 22s loss_mot_rec: 0.0323 
+epoch:  17 niter:  15350  inner_iter:  763 
+263m 3s loss_mot_rec: 0.0313 
+epoch:  17 niter:  15400  inner_iter:  813 
+263m 44s loss_mot_rec: 0.0304 
+epoch:  18 niter:  15450  inner_iter:    5 
+264m 41s loss_mot_rec: 0.0334 
+epoch:  18 niter:  15500  inner_iter:   55 
+265m 22s loss_mot_rec: 0.0326 
+epoch:  18 niter:  15550  inner_iter:  105 
+266m 2s loss_mot_rec: 0.0306 
+epoch:  18 niter:  15600  inner_iter:  155 
+266m 43s loss_mot_rec: 0.0327 
+epoch:  18 niter:  15650  inner_iter:  205 
+267m 24s loss_mot_rec: 0.0300 
+epoch:  18 niter:  15700  inner_iter:  255 
+268m 5s loss_mot_rec: 0.0307 
+epoch:  18 niter:  15750  inner_iter:  305 
+268m 46s loss_mot_rec: 0.0304 
+epoch:  18 niter:  15800  inner_iter:  355 
+269m 26s loss_mot_rec: 0.0307 
+epoch:  18 niter:  15850  inner_iter:  405 
+270m 7s loss_mot_rec: 0.0310 
+epoch:  18 niter:  15900  inner_iter:  455 
+270m 48s loss_mot_rec: 0.0320 
+epoch:  18 niter:  15950  inner_iter:  505 
+271m 28s loss_mot_rec: 0.0331 
+epoch:  18 niter:  16000  inner_iter:  555 
+272m 9s loss_mot_rec: 0.0309 
+epoch:  18 niter:  16050  inner_iter:  605 
+272m 50s loss_mot_rec: 0.0308 
+epoch:  18 niter:  16100  inner_iter:  655 
+273m 30s loss_mot_rec: 0.0299 
+epoch:  18 niter:  16150  inner_iter:  705 
+274m 11s loss_mot_rec: 0.0310 
+epoch:  18 niter:  16200  inner_iter:  755 
+274m 52s loss_mot_rec: 0.0305 
+epoch:  18 niter:  16250  inner_iter:  805 
+275m 32s loss_mot_rec: 0.0310 
+epoch:  18 niter:  16300  inner_iter:  855 
+276m 13s loss_mot_rec: 0.0308 
+epoch:  19 niter:  16350  inner_iter:   47 
+277m 10s loss_mot_rec: 0.0316 
+epoch:  19 niter:  16400  inner_iter:   97 
+277m 50s loss_mot_rec: 0.0302 
+epoch:  19 niter:  16450  inner_iter:  147 
+278m 31s loss_mot_rec: 0.0320 
+epoch:  19 niter:  16500  inner_iter:  197 
+279m 12s loss_mot_rec: 0.0307 
+epoch:  19 niter:  16550  inner_iter:  247 
+279m 56s loss_mot_rec: 0.0295 
+epoch:  19 niter:  16600  inner_iter:  297 
+280m 42s loss_mot_rec: 0.0305 
+epoch:  19 niter:  16650  inner_iter:  347 
+281m 27s loss_mot_rec: 0.0323 
+epoch:  19 niter:  16700  inner_iter:  397 
+282m 23s loss_mot_rec: 0.0314 
+epoch:  19 niter:  16750  inner_iter:  447 
+283m 4s loss_mot_rec: 0.0323 
+epoch:  19 niter:  16800  inner_iter:  497 
+283m 44s loss_mot_rec: 0.0310 
+epoch:  19 niter:  16850  inner_iter:  547 
+284m 25s loss_mot_rec: 0.0281 
+epoch:  19 niter:  16900  inner_iter:  597 
+285m 5s loss_mot_rec: 0.0298 
+epoch:  19 niter:  16950  inner_iter:  647 
+285m 46s loss_mot_rec: 0.0297 
+epoch:  19 niter:  17000  inner_iter:  697 
+286m 27s loss_mot_rec: 0.0316 
+epoch:  19 niter:  17050  inner_iter:  747 
+287m 7s loss_mot_rec: 0.0297 
+epoch:  19 niter:  17100  inner_iter:  797 
+287m 48s loss_mot_rec: 0.0311 
+epoch:  19 niter:  17150  inner_iter:  847 
+288m 29s loss_mot_rec: 0.0296 
+epoch:  20 niter:  17200  inner_iter:   39 
+289m 27s loss_mot_rec: 0.0297 
+epoch:  20 niter:  17250  inner_iter:   89 
+290m 7s loss_mot_rec: 0.0305 
+epoch:  20 niter:  17300  inner_iter:  139 
+290m 48s loss_mot_rec: 0.0304 
+epoch:  20 niter:  17350  inner_iter:  189 
+291m 28s loss_mot_rec: 0.0293 
+epoch:  20 niter:  17400  inner_iter:  239 
+292m 9s loss_mot_rec: 0.0307 
+epoch:  20 niter:  17450  inner_iter:  289 
+292m 50s loss_mot_rec: 0.0300 
+epoch:  20 niter:  17500  inner_iter:  339 
+293m 30s loss_mot_rec: 0.0291 
+epoch:  20 niter:  17550  inner_iter:  389 
+294m 11s loss_mot_rec: 0.0292 
+epoch:  20 niter:  17600  inner_iter:  439 
+294m 51s loss_mot_rec: 0.0310 
+epoch:  20 niter:  17650  inner_iter:  489 
+295m 32s loss_mot_rec: 0.0282 
+epoch:  20 niter:  17700  inner_iter:  539 
+296m 12s loss_mot_rec: 0.0297 
+epoch:  20 niter:  17750  inner_iter:  589 
+296m 53s loss_mot_rec: 0.0308 
+epoch:  20 niter:  17800  inner_iter:  639 
+297m 34s loss_mot_rec: 0.0319 
+epoch:  20 niter:  17850  inner_iter:  689 
+298m 15s loss_mot_rec: 0.0301 
+epoch:  20 niter:  17900  inner_iter:  739 
+298m 56s loss_mot_rec: 0.0304 
+epoch:  20 niter:  17950  inner_iter:  789 
+299m 36s loss_mot_rec: 0.0312 
+epoch:  20 niter:  18000  inner_iter:  839 
+300m 17s loss_mot_rec: 0.0305 
+epoch:  21 niter:  18050  inner_iter:   31 
+301m 17s loss_mot_rec: 0.0298 
+epoch:  21 niter:  18100  inner_iter:   81 
+301m 58s loss_mot_rec: 0.0302 
+epoch:  21 niter:  18150  inner_iter:  131 
+302m 39s loss_mot_rec: 0.0303 
+epoch:  21 niter:  18200  inner_iter:  181 
+303m 19s loss_mot_rec: 0.0304 
+epoch:  21 niter:  18250  inner_iter:  231 
+304m 0s loss_mot_rec: 0.0298 
+epoch:  21 niter:  18300  inner_iter:  281 
+304m 42s loss_mot_rec: 0.0305 
+epoch:  21 niter:  18350  inner_iter:  331 
+305m 22s loss_mot_rec: 0.0314 
+epoch:  21 niter:  18400  inner_iter:  381 
+306m 3s loss_mot_rec: 0.0279 
+epoch:  21 niter:  18450  inner_iter:  431 
+306m 44s loss_mot_rec: 0.0305 
+epoch:  21 niter:  18500  inner_iter:  481 
+307m 25s loss_mot_rec: 0.0296 
+epoch:  21 niter:  18550  inner_iter:  531 
+308m 5s loss_mot_rec: 0.0293 
+epoch:  21 niter:  18600  inner_iter:  581 
+308m 46s loss_mot_rec: 0.0286 
+epoch:  21 niter:  18650  inner_iter:  631 
+309m 27s loss_mot_rec: 0.0325 
+epoch:  21 niter:  18700  inner_iter:  681 
+310m 9s loss_mot_rec: 0.0293 
+epoch:  21 niter:  18750  inner_iter:  731 
+311m 10s loss_mot_rec: 0.0294 
+epoch:  21 niter:  18800  inner_iter:  781 
+311m 50s loss_mot_rec: 0.0303 
+epoch:  21 niter:  18850  inner_iter:  831 
+312m 31s loss_mot_rec: 0.0303 
+epoch:  22 niter:  18900  inner_iter:   23 
+313m 28s loss_mot_rec: 0.0294 
+epoch:  22 niter:  18950  inner_iter:   73 
+314m 9s loss_mot_rec: 0.0291 
+epoch:  22 niter:  19000  inner_iter:  123 
+314m 50s loss_mot_rec: 0.0309 
+epoch:  22 niter:  19050  inner_iter:  173 
+315m 31s loss_mot_rec: 0.0294 
+epoch:  22 niter:  19100  inner_iter:  223 
+316m 11s loss_mot_rec: 0.0302 
+epoch:  22 niter:  19150  inner_iter:  273 
+316m 52s loss_mot_rec: 0.0276 
+epoch:  22 niter:  19200  inner_iter:  323 
+317m 33s loss_mot_rec: 0.0295 
+epoch:  22 niter:  19250  inner_iter:  373 
+318m 14s loss_mot_rec: 0.0295 
+epoch:  22 niter:  19300  inner_iter:  423 
+318m 55s loss_mot_rec: 0.0290 
+epoch:  22 niter:  19350  inner_iter:  473 
+319m 36s loss_mot_rec: 0.0293 
+epoch:  22 niter:  19400  inner_iter:  523 
+320m 16s loss_mot_rec: 0.0295 
+epoch:  22 niter:  19450  inner_iter:  573 
+320m 57s loss_mot_rec: 0.0304 
+epoch:  22 niter:  19500  inner_iter:  623 
+321m 38s loss_mot_rec: 0.0299 
+epoch:  22 niter:  19550  inner_iter:  673 
+322m 18s loss_mot_rec: 0.0286 
+epoch:  22 niter:  19600  inner_iter:  723 
+322m 59s loss_mot_rec: 0.0303 
+epoch:  22 niter:  19650  inner_iter:  773 
+323m 40s loss_mot_rec: 0.0309 
+epoch:  22 niter:  19700  inner_iter:  823 
+324m 21s loss_mot_rec: 0.0294 
+epoch:  23 niter:  19750  inner_iter:   15 
+325m 18s loss_mot_rec: 0.0307 
+epoch:  23 niter:  19800  inner_iter:   65 
+325m 58s loss_mot_rec: 0.0310 
+epoch:  23 niter:  19850  inner_iter:  115 
+326m 39s loss_mot_rec: 0.0296 
+epoch:  23 niter:  19900  inner_iter:  165 
+327m 19s loss_mot_rec: 0.0292 
+epoch:  23 niter:  19950  inner_iter:  215 
+328m 0s loss_mot_rec: 0.0303 
+epoch:  23 niter:  20000  inner_iter:  265 
+328m 40s loss_mot_rec: 0.0306 
+epoch:  23 niter:  20050  inner_iter:  315 
+329m 21s loss_mot_rec: 0.0274 
+epoch:  23 niter:  20100  inner_iter:  365 
+330m 1s loss_mot_rec: 0.0282 
+epoch:  23 niter:  20150  inner_iter:  415 
+330m 42s loss_mot_rec: 0.0294 
+epoch:  23 niter:  20200  inner_iter:  465 
+331m 22s loss_mot_rec: 0.0279 
+epoch:  23 niter:  20250  inner_iter:  515 
+332m 2s loss_mot_rec: 0.0290 
+epoch:  23 niter:  20300  inner_iter:  565 
+332m 43s loss_mot_rec: 0.0275 
+epoch:  23 niter:  20350  inner_iter:  615 
+333m 23s loss_mot_rec: 0.0288 
+epoch:  23 niter:  20400  inner_iter:  665 
+334m 4s loss_mot_rec: 0.0302 
+epoch:  23 niter:  20450  inner_iter:  715 
+334m 45s loss_mot_rec: 0.0285 
+epoch:  23 niter:  20500  inner_iter:  765 
+335m 25s loss_mot_rec: 0.0294 
+epoch:  23 niter:  20550  inner_iter:  815 
+336m 5s loss_mot_rec: 0.0289 
+epoch:  24 niter:  20600  inner_iter:    7 
+337m 2s loss_mot_rec: 0.0284 
+epoch:  24 niter:  20650  inner_iter:   57 
+337m 43s loss_mot_rec: 0.0287 
+epoch:  24 niter:  20700  inner_iter:  107 
+338m 23s loss_mot_rec: 0.0311 
+epoch:  24 niter:  20750  inner_iter:  157 
+339m 4s loss_mot_rec: 0.0287 
+epoch:  24 niter:  20800  inner_iter:  207 
+339m 45s loss_mot_rec: 0.0275 
+epoch:  24 niter:  20850  inner_iter:  257 
+340m 25s loss_mot_rec: 0.0292 
+epoch:  24 niter:  20900  inner_iter:  307 
+341m 6s loss_mot_rec: 0.0297 
+epoch:  24 niter:  20950  inner_iter:  357 
+341m 46s loss_mot_rec: 0.0286 
+epoch:  24 niter:  21000  inner_iter:  407 
+342m 27s loss_mot_rec: 0.0284 
+epoch:  24 niter:  21050  inner_iter:  457 
+343m 7s loss_mot_rec: 0.0294 
+epoch:  24 niter:  21100  inner_iter:  507 
+343m 48s loss_mot_rec: 0.0279 
+epoch:  24 niter:  21150  inner_iter:  557 
+344m 29s loss_mot_rec: 0.0295 
+epoch:  24 niter:  21200  inner_iter:  607 
+345m 9s loss_mot_rec: 0.0285 
+epoch:  24 niter:  21250  inner_iter:  657 
+345m 50s loss_mot_rec: 0.0279 
+epoch:  24 niter:  21300  inner_iter:  707 
+346m 30s loss_mot_rec: 0.0295 
+epoch:  24 niter:  21350  inner_iter:  757 
+347m 11s loss_mot_rec: 0.0276 
+epoch:  24 niter:  21400  inner_iter:  807 
+347m 51s loss_mot_rec: 0.0290 
+epoch:  24 niter:  21450  inner_iter:  857 
+348m 32s loss_mot_rec: 0.0293 
+epoch:  25 niter:  21500  inner_iter:   49 
+349m 28s loss_mot_rec: 0.0278 
+epoch:  25 niter:  21550  inner_iter:   99 
+350m 9s loss_mot_rec: 0.0272 
+epoch:  25 niter:  21600  inner_iter:  149 
+350m 50s loss_mot_rec: 0.0287 
+epoch:  25 niter:  21650  inner_iter:  199 
+351m 31s loss_mot_rec: 0.0279 
+epoch:  25 niter:  21700  inner_iter:  249 
+352m 11s loss_mot_rec: 0.0283 
+epoch:  25 niter:  21750  inner_iter:  299 
+352m 52s loss_mot_rec: 0.0275 
+epoch:  25 niter:  21800  inner_iter:  349 
+353m 33s loss_mot_rec: 0.0272 
+epoch:  25 niter:  21850  inner_iter:  399 
+354m 13s loss_mot_rec: 0.0273 
+epoch:  25 niter:  21900  inner_iter:  449 
+354m 54s loss_mot_rec: 0.0289 
+epoch:  25 niter:  21950  inner_iter:  499 
+355m 34s loss_mot_rec: 0.0295 
+epoch:  25 niter:  22000  inner_iter:  549 
+356m 15s loss_mot_rec: 0.0283 
+epoch:  25 niter:  22050  inner_iter:  599 
+356m 55s loss_mot_rec: 0.0291 
+epoch:  25 niter:  22100  inner_iter:  649 
+357m 36s loss_mot_rec: 0.0291 
+epoch:  25 niter:  22150  inner_iter:  699 
+358m 17s loss_mot_rec: 0.0296 
+epoch:  25 niter:  22200  inner_iter:  749 
+358m 57s loss_mot_rec: 0.0287 
+epoch:  25 niter:  22250  inner_iter:  799 
+359m 37s loss_mot_rec: 0.0283 
+epoch:  25 niter:  22300  inner_iter:  849 
+360m 18s loss_mot_rec: 0.0282 
+epoch:  26 niter:  22350  inner_iter:   41 
+361m 17s loss_mot_rec: 0.0281 
+epoch:  26 niter:  22400  inner_iter:   91 
+361m 57s loss_mot_rec: 0.0280 
+epoch:  26 niter:  22450  inner_iter:  141 
+362m 37s loss_mot_rec: 0.0282 
+epoch:  26 niter:  22500  inner_iter:  191 
+363m 18s loss_mot_rec: 0.0283 
+epoch:  26 niter:  22550  inner_iter:  241 
+363m 58s loss_mot_rec: 0.0287 
+epoch:  26 niter:  22600  inner_iter:  291 
+364m 39s loss_mot_rec: 0.0281 
+epoch:  26 niter:  22650  inner_iter:  341 
+365m 19s loss_mot_rec: 0.0282 
+epoch:  26 niter:  22700  inner_iter:  391 
+366m 0s loss_mot_rec: 0.0272 
+epoch:  26 niter:  22750  inner_iter:  441 
+366m 40s loss_mot_rec: 0.0284 
+epoch:  26 niter:  22800  inner_iter:  491 
+367m 21s loss_mot_rec: 0.0283 
+epoch:  26 niter:  22850  inner_iter:  541 
+368m 1s loss_mot_rec: 0.0270 
+epoch:  26 niter:  22900  inner_iter:  591 
+368m 42s loss_mot_rec: 0.0294 
+epoch:  26 niter:  22950  inner_iter:  641 
+369m 23s loss_mot_rec: 0.0290 
+epoch:  26 niter:  23000  inner_iter:  691 
+370m 3s loss_mot_rec: 0.0286 
+epoch:  26 niter:  23050  inner_iter:  741 
+370m 44s loss_mot_rec: 0.0267 
+epoch:  26 niter:  23100  inner_iter:  791 
+371m 24s loss_mot_rec: 0.0265 
+epoch:  26 niter:  23150  inner_iter:  841 
+372m 5s loss_mot_rec: 0.0279 
+epoch:  27 niter:  23200  inner_iter:   33 
+373m 2s loss_mot_rec: 0.0295 
+epoch:  27 niter:  23250  inner_iter:   83 
+373m 42s loss_mot_rec: 0.0303 
+epoch:  27 niter:  23300  inner_iter:  133 
+374m 23s loss_mot_rec: 0.0300 
+epoch:  27 niter:  23350  inner_iter:  183 
+375m 3s loss_mot_rec: 0.0290 
+epoch:  27 niter:  23400  inner_iter:  233 
+375m 44s loss_mot_rec: 0.0261 
+epoch:  27 niter:  23450  inner_iter:  283 
+376m 25s loss_mot_rec: 0.0278 
+epoch:  27 niter:  23500  inner_iter:  333 
+377m 5s loss_mot_rec: 0.0284 
+epoch:  27 niter:  23550  inner_iter:  383 
+377m 46s loss_mot_rec: 0.0280 
+epoch:  27 niter:  23600  inner_iter:  433 
+378m 27s loss_mot_rec: 0.0291 
+epoch:  27 niter:  23650  inner_iter:  483 
+379m 8s loss_mot_rec: 0.0296 
+epoch:  27 niter:  23700  inner_iter:  533 
+379m 48s loss_mot_rec: 0.0283 
+epoch:  27 niter:  23750  inner_iter:  583 
+380m 29s loss_mot_rec: 0.0288 
+epoch:  27 niter:  23800  inner_iter:  633 
+381m 10s loss_mot_rec: 0.0283 
+epoch:  27 niter:  23850  inner_iter:  683 
+381m 50s loss_mot_rec: 0.0286 
+epoch:  27 niter:  23900  inner_iter:  733 
+382m 31s loss_mot_rec: 0.0274 
+epoch:  27 niter:  23950  inner_iter:  783 
+383m 12s loss_mot_rec: 0.0289 
+epoch:  27 niter:  24000  inner_iter:  833 
+383m 52s loss_mot_rec: 0.0266 
+epoch:  28 niter:  24050  inner_iter:   25 
+384m 49s loss_mot_rec: 0.0271 
+epoch:  28 niter:  24100  inner_iter:   75 
+385m 29s loss_mot_rec: 0.0286 
+epoch:  28 niter:  24150  inner_iter:  125 
+386m 9s loss_mot_rec: 0.0286 
+epoch:  28 niter:  24200  inner_iter:  175 
+386m 50s loss_mot_rec: 0.0257 
+epoch:  28 niter:  24250  inner_iter:  225 
+387m 30s loss_mot_rec: 0.0258 
+epoch:  28 niter:  24300  inner_iter:  275 
+388m 11s loss_mot_rec: 0.0263 
+epoch:  28 niter:  24350  inner_iter:  325 
+388m 51s loss_mot_rec: 0.0278 
+epoch:  28 niter:  24400  inner_iter:  375 
+389m 32s loss_mot_rec: 0.0273 
+epoch:  28 niter:  24450  inner_iter:  425 
+390m 12s loss_mot_rec: 0.0273 
+epoch:  28 niter:  24500  inner_iter:  475 
+390m 53s loss_mot_rec: 0.0276 
+epoch:  28 niter:  24550  inner_iter:  525 
+391m 33s loss_mot_rec: 0.0297 
+epoch:  28 niter:  24600  inner_iter:  575 
+392m 14s loss_mot_rec: 0.0280 
+epoch:  28 niter:  24650  inner_iter:  625 
+392m 55s loss_mot_rec: 0.0284 
+epoch:  28 niter:  24700  inner_iter:  675 
+393m 35s loss_mot_rec: 0.0269 
+epoch:  28 niter:  24750  inner_iter:  725 
+394m 16s loss_mot_rec: 0.0263 
+epoch:  28 niter:  24800  inner_iter:  775 
+394m 56s loss_mot_rec: 0.0287 
+epoch:  28 niter:  24850  inner_iter:  825 
+395m 37s loss_mot_rec: 0.0265 
+epoch:  29 niter:  24900  inner_iter:   17 
+396m 33s loss_mot_rec: 0.0272 
+epoch:  29 niter:  24950  inner_iter:   67 
+397m 14s loss_mot_rec: 0.0267 
+epoch:  29 niter:  25000  inner_iter:  117 
+397m 55s loss_mot_rec: 0.0262 
+epoch:  29 niter:  25050  inner_iter:  167 
+398m 35s loss_mot_rec: 0.0275 
+epoch:  29 niter:  25100  inner_iter:  217 
+399m 16s loss_mot_rec: 0.0280 
+epoch:  29 niter:  25150  inner_iter:  267 
+399m 56s loss_mot_rec: 0.0276 
+epoch:  29 niter:  25200  inner_iter:  317 
+400m 37s loss_mot_rec: 0.0278 
+epoch:  29 niter:  25250  inner_iter:  367 
+401m 17s loss_mot_rec: 0.0266 
+epoch:  29 niter:  25300  inner_iter:  417 
+401m 58s loss_mot_rec: 0.0273 
+epoch:  29 niter:  25350  inner_iter:  467 
+402m 38s loss_mot_rec: 0.0269 
+epoch:  29 niter:  25400  inner_iter:  517 
+403m 19s loss_mot_rec: 0.0296 
+epoch:  29 niter:  25450  inner_iter:  567 
+403m 59s loss_mot_rec: 0.0279 
+epoch:  29 niter:  25500  inner_iter:  617 
+404m 40s loss_mot_rec: 0.0260 
+epoch:  29 niter:  25550  inner_iter:  667 
+405m 21s loss_mot_rec: 0.0263 
+epoch:  29 niter:  25600  inner_iter:  717 
+406m 2s loss_mot_rec: 0.0297 
+epoch:  29 niter:  25650  inner_iter:  767 
+406m 42s loss_mot_rec: 0.0275 
+epoch:  29 niter:  25700  inner_iter:  817 
+407m 23s loss_mot_rec: 0.0266 
+epoch:  30 niter:  25750  inner_iter:    9 
+408m 24s loss_mot_rec: 0.0261 
+epoch:  30 niter:  25800  inner_iter:   59 
+409m 5s loss_mot_rec: 0.0260 
+epoch:  30 niter:  25850  inner_iter:  109 
+409m 45s loss_mot_rec: 0.0253 
+epoch:  30 niter:  25900  inner_iter:  159 
+410m 26s loss_mot_rec: 0.0292 
+epoch:  30 niter:  25950  inner_iter:  209 
+411m 6s loss_mot_rec: 0.0262 
+epoch:  30 niter:  26000  inner_iter:  259 
+411m 47s loss_mot_rec: 0.0265 
+epoch:  30 niter:  26050  inner_iter:  309 
+412m 27s loss_mot_rec: 0.0266 
+epoch:  30 niter:  26100  inner_iter:  359 
+413m 8s loss_mot_rec: 0.0266 
+epoch:  30 niter:  26150  inner_iter:  409 
+413m 48s loss_mot_rec: 0.0264 
+epoch:  30 niter:  26200  inner_iter:  459 
+414m 29s loss_mot_rec: 0.0276 
+epoch:  30 niter:  26250  inner_iter:  509 
+415m 9s loss_mot_rec: 0.0250 
+epoch:  30 niter:  26300  inner_iter:  559 
+415m 50s loss_mot_rec: 0.0281 
+epoch:  30 niter:  26350  inner_iter:  609 
+416m 30s loss_mot_rec: 0.0283 
+epoch:  30 niter:  26400  inner_iter:  659 
+417m 11s loss_mot_rec: 0.0264 
+epoch:  30 niter:  26450  inner_iter:  709 
+417m 51s loss_mot_rec: 0.0268 
+epoch:  30 niter:  26500  inner_iter:  759 
+418m 32s loss_mot_rec: 0.0260 
+epoch:  30 niter:  26550  inner_iter:  809 
+419m 13s loss_mot_rec: 0.0261 
+epoch:  31 niter:  26600  inner_iter:    1 
+420m 11s loss_mot_rec: 0.0282 
+epoch:  31 niter:  26650  inner_iter:   51 
+420m 52s loss_mot_rec: 0.0279 
+epoch:  31 niter:  26700  inner_iter:  101 
+421m 33s loss_mot_rec: 0.0262 
+epoch:  31 niter:  26750  inner_iter:  151 
+422m 13s loss_mot_rec: 0.0272 
+epoch:  31 niter:  26800  inner_iter:  201 
+422m 54s loss_mot_rec: 0.0264 
+epoch:  31 niter:  26850  inner_iter:  251 
+423m 34s loss_mot_rec: 0.0273 
+epoch:  31 niter:  26900  inner_iter:  301 
+424m 15s loss_mot_rec: 0.0259 
+epoch:  31 niter:  26950  inner_iter:  351 
+424m 56s loss_mot_rec: 0.0255 
+epoch:  31 niter:  27000  inner_iter:  401 
+425m 37s loss_mot_rec: 0.0264 
+epoch:  31 niter:  27050  inner_iter:  451 
+426m 17s loss_mot_rec: 0.0268 
+epoch:  31 niter:  27100  inner_iter:  501 
+426m 58s loss_mot_rec: 0.0260 
+epoch:  31 niter:  27150  inner_iter:  551 
+427m 39s loss_mot_rec: 0.0263 
+epoch:  31 niter:  27200  inner_iter:  601 
+428m 20s loss_mot_rec: 0.0263 
+epoch:  31 niter:  27250  inner_iter:  651 
+429m 0s loss_mot_rec: 0.0267 
+epoch:  31 niter:  27300  inner_iter:  701 
+429m 41s loss_mot_rec: 0.0284 
+epoch:  31 niter:  27350  inner_iter:  751 
+430m 21s loss_mot_rec: 0.0264 
+epoch:  31 niter:  27400  inner_iter:  801 
+431m 2s loss_mot_rec: 0.0262 
+epoch:  31 niter:  27450  inner_iter:  851 
+431m 42s loss_mot_rec: 0.0279 
+epoch:  32 niter:  27500  inner_iter:   43 
+432m 39s loss_mot_rec: 0.0277 
+epoch:  32 niter:  27550  inner_iter:   93 
+433m 20s loss_mot_rec: 0.0270 
+epoch:  32 niter:  27600  inner_iter:  143 
+434m 0s loss_mot_rec: 0.0249 
+epoch:  32 niter:  27650  inner_iter:  193 
+434m 41s loss_mot_rec: 0.0268 
+epoch:  32 niter:  27700  inner_iter:  243 
+435m 22s loss_mot_rec: 0.0255 
+epoch:  32 niter:  27750  inner_iter:  293 
+436m 2s loss_mot_rec: 0.0260 
+epoch:  32 niter:  27800  inner_iter:  343 
+436m 43s loss_mot_rec: 0.0255 
+epoch:  32 niter:  27850  inner_iter:  393 
+437m 23s loss_mot_rec: 0.0256 
+epoch:  32 niter:  27900  inner_iter:  443 
+438m 4s loss_mot_rec: 0.0283 
+epoch:  32 niter:  27950  inner_iter:  493 
+438m 44s loss_mot_rec: 0.0274 
+epoch:  32 niter:  28000  inner_iter:  543 
+439m 25s loss_mot_rec: 0.0274 
+epoch:  32 niter:  28050  inner_iter:  593 
+440m 5s loss_mot_rec: 0.0274 
+epoch:  32 niter:  28100  inner_iter:  643 
+440m 46s loss_mot_rec: 0.0263 
+epoch:  32 niter:  28150  inner_iter:  693 
+441m 27s loss_mot_rec: 0.0262 
+epoch:  32 niter:  28200  inner_iter:  743 
+442m 7s loss_mot_rec: 0.0262 
+epoch:  32 niter:  28250  inner_iter:  793 
+442m 48s loss_mot_rec: 0.0257 
+epoch:  32 niter:  28300  inner_iter:  843 
+443m 29s loss_mot_rec: 0.0258 
+epoch:  33 niter:  28350  inner_iter:   35 
+444m 25s loss_mot_rec: 0.0272 
+epoch:  33 niter:  28400  inner_iter:   85 
+445m 6s loss_mot_rec: 0.0273 
+epoch:  33 niter:  28450  inner_iter:  135 
+445m 47s loss_mot_rec: 0.0260 
+epoch:  33 niter:  28500  inner_iter:  185 
+446m 28s loss_mot_rec: 0.0267 
+epoch:  33 niter:  28550  inner_iter:  235 
+447m 8s loss_mot_rec: 0.0261 
+epoch:  33 niter:  28600  inner_iter:  285 
+447m 49s loss_mot_rec: 0.0252 
+epoch:  33 niter:  28650  inner_iter:  335 
+448m 30s loss_mot_rec: 0.0282 
+epoch:  33 niter:  28700  inner_iter:  385 
+449m 11s loss_mot_rec: 0.0279 
+epoch:  33 niter:  28750  inner_iter:  435 
+449m 51s loss_mot_rec: 0.0271 
+epoch:  33 niter:  28800  inner_iter:  485 
+450m 32s loss_mot_rec: 0.0252 
+epoch:  33 niter:  28850  inner_iter:  535 
+451m 12s loss_mot_rec: 0.0266 
+epoch:  33 niter:  28900  inner_iter:  585 
+451m 53s loss_mot_rec: 0.0253 
+epoch:  33 niter:  28950  inner_iter:  635 
+452m 34s loss_mot_rec: 0.0254 
+epoch:  33 niter:  29000  inner_iter:  685 
+453m 15s loss_mot_rec: 0.0254 
+epoch:  33 niter:  29050  inner_iter:  735 
+453m 55s loss_mot_rec: 0.0258 
+epoch:  33 niter:  29100  inner_iter:  785 
+454m 36s loss_mot_rec: 0.0253 
+epoch:  33 niter:  29150  inner_iter:  835 
+455m 17s loss_mot_rec: 0.0282 
+epoch:  34 niter:  29200  inner_iter:   27 
+456m 14s loss_mot_rec: 0.0280 
+epoch:  34 niter:  29250  inner_iter:   77 
+456m 55s loss_mot_rec: 0.0251 
+epoch:  34 niter:  29300  inner_iter:  127 
+457m 36s loss_mot_rec: 0.0256 
+epoch:  34 niter:  29350  inner_iter:  177 
+458m 16s loss_mot_rec: 0.0258 
+epoch:  34 niter:  29400  inner_iter:  227 
+458m 57s loss_mot_rec: 0.0265 
+epoch:  34 niter:  29450  inner_iter:  277 
+459m 38s loss_mot_rec: 0.0256 
+epoch:  34 niter:  29500  inner_iter:  327 
+460m 18s loss_mot_rec: 0.0246 
+epoch:  34 niter:  29550  inner_iter:  377 
+460m 59s loss_mot_rec: 0.0264 
+epoch:  34 niter:  29600  inner_iter:  427 
+461m 40s loss_mot_rec: 0.0262 
+epoch:  34 niter:  29650  inner_iter:  477 
+462m 21s loss_mot_rec: 0.0263 
+epoch:  34 niter:  29700  inner_iter:  527 
+463m 1s loss_mot_rec: 0.0247 
+epoch:  34 niter:  29750  inner_iter:  577 
+463m 42s loss_mot_rec: 0.0263 
+epoch:  34 niter:  29800  inner_iter:  627 
+464m 23s loss_mot_rec: 0.0243 
+epoch:  34 niter:  29850  inner_iter:  677 
+465m 4s loss_mot_rec: 0.0268 
+epoch:  34 niter:  29900  inner_iter:  727 
+465m 44s loss_mot_rec: 0.0277 
+epoch:  34 niter:  29950  inner_iter:  777 
+466m 25s loss_mot_rec: 0.0276 
+epoch:  34 niter:  30000  inner_iter:  827 
+467m 6s loss_mot_rec: 0.0240 
+epoch:  35 niter:  30050  inner_iter:   19 
+468m 3s loss_mot_rec: 0.0273 
+epoch:  35 niter:  30100  inner_iter:   69 
+468m 43s loss_mot_rec: 0.0262 
+epoch:  35 niter:  30150  inner_iter:  119 
+469m 25s loss_mot_rec: 0.0250 
+epoch:  35 niter:  30200  inner_iter:  169 
+470m 7s loss_mot_rec: 0.0262 
+epoch:  35 niter:  30250  inner_iter:  219 
+470m 48s loss_mot_rec: 0.0257 
+epoch:  35 niter:  30300  inner_iter:  269 
+471m 29s loss_mot_rec: 0.0246 
+epoch:  35 niter:  30350  inner_iter:  319 
+472m 9s loss_mot_rec: 0.0247 
+epoch:  35 niter:  30400  inner_iter:  369 
+472m 50s loss_mot_rec: 0.0256 
+epoch:  35 niter:  30450  inner_iter:  419 
+473m 31s loss_mot_rec: 0.0239 
+epoch:  35 niter:  30500  inner_iter:  469 
+474m 11s loss_mot_rec: 0.0249 
+epoch:  35 niter:  30550  inner_iter:  519 
+474m 52s loss_mot_rec: 0.0268 
+epoch:  35 niter:  30600  inner_iter:  569 
+475m 32s loss_mot_rec: 0.0255 
+epoch:  35 niter:  30650  inner_iter:  619 
+476m 13s loss_mot_rec: 0.0259 
+epoch:  35 niter:  30700  inner_iter:  669 
+476m 53s loss_mot_rec: 0.0258 
+epoch:  35 niter:  30750  inner_iter:  719 
+477m 34s loss_mot_rec: 0.0256 
+epoch:  35 niter:  30800  inner_iter:  769 
+478m 14s loss_mot_rec: 0.0258 
+epoch:  35 niter:  30850  inner_iter:  819 
+478m 55s loss_mot_rec: 0.0269 
+epoch:  36 niter:  30900  inner_iter:   11 
+479m 54s loss_mot_rec: 0.0260 
+epoch:  36 niter:  30950  inner_iter:   61 
+480m 35s loss_mot_rec: 0.0264 
+epoch:  36 niter:  31000  inner_iter:  111 
+481m 16s loss_mot_rec: 0.0270 
+epoch:  36 niter:  31050  inner_iter:  161 
+481m 56s loss_mot_rec: 0.0251 
+epoch:  36 niter:  31100  inner_iter:  211 
+482m 37s loss_mot_rec: 0.0260 
+epoch:  36 niter:  31150  inner_iter:  261 
+483m 18s loss_mot_rec: 0.0250 
+epoch:  36 niter:  31200  inner_iter:  311 
+483m 58s loss_mot_rec: 0.0248 
+epoch:  36 niter:  31250  inner_iter:  361 
+484m 39s loss_mot_rec: 0.0267 
+epoch:  36 niter:  31300  inner_iter:  411 
+485m 19s loss_mot_rec: 0.0236 
+epoch:  36 niter:  31350  inner_iter:  461 
+486m 0s loss_mot_rec: 0.0248 
+epoch:  36 niter:  31400  inner_iter:  511 
+486m 40s loss_mot_rec: 0.0247 
+epoch:  36 niter:  31450  inner_iter:  561 
+487m 21s loss_mot_rec: 0.0239 
+epoch:  36 niter:  31500  inner_iter:  611 
+488m 2s loss_mot_rec: 0.0260 
+epoch:  36 niter:  31550  inner_iter:  661 
+488m 42s loss_mot_rec: 0.0257 
+epoch:  36 niter:  31600  inner_iter:  711 
+489m 23s loss_mot_rec: 0.0240 
+epoch:  36 niter:  31650  inner_iter:  761 
+490m 4s loss_mot_rec: 0.0253 
+epoch:  36 niter:  31700  inner_iter:  811 
+490m 45s loss_mot_rec: 0.0258 
+epoch:  37 niter:  31750  inner_iter:    3 
+491m 42s loss_mot_rec: 0.0242 
+epoch:  37 niter:  31800  inner_iter:   53 
+492m 23s loss_mot_rec: 0.0258 
+epoch:  37 niter:  31850  inner_iter:  103 
+493m 3s loss_mot_rec: 0.0245 
+epoch:  37 niter:  31900  inner_iter:  153 
+493m 44s loss_mot_rec: 0.0261 
+epoch:  37 niter:  31950  inner_iter:  203 
+494m 24s loss_mot_rec: 0.0260 
+epoch:  37 niter:  32000  inner_iter:  253 
+495m 5s loss_mot_rec: 0.0249 
+epoch:  37 niter:  32050  inner_iter:  303 
+495m 46s loss_mot_rec: 0.0265 
+epoch:  37 niter:  32100  inner_iter:  353 
+496m 26s loss_mot_rec: 0.0253 
+epoch:  37 niter:  32150  inner_iter:  403 
+497m 7s loss_mot_rec: 0.0245 
+epoch:  37 niter:  32200  inner_iter:  453 
+497m 49s loss_mot_rec: 0.0263 
+epoch:  37 niter:  32250  inner_iter:  503 
+498m 30s loss_mot_rec: 0.0266 
+epoch:  37 niter:  32300  inner_iter:  553 
+499m 11s loss_mot_rec: 0.0248 
+epoch:  37 niter:  32350  inner_iter:  603 
+499m 52s loss_mot_rec: 0.0247 
+epoch:  37 niter:  32400  inner_iter:  653 
+500m 32s loss_mot_rec: 0.0246 
+epoch:  37 niter:  32450  inner_iter:  703 
+501m 13s loss_mot_rec: 0.0253 
+epoch:  37 niter:  32500  inner_iter:  753 
+501m 53s loss_mot_rec: 0.0251 
+epoch:  37 niter:  32550  inner_iter:  803 
+502m 34s loss_mot_rec: 0.0259 
+epoch:  37 niter:  32600  inner_iter:  853 
+503m 15s loss_mot_rec: 0.0250 
+epoch:  38 niter:  32650  inner_iter:   45 
+504m 12s loss_mot_rec: 0.0245 
+epoch:  38 niter:  32700  inner_iter:   95 
+504m 52s loss_mot_rec: 0.0251 
+epoch:  38 niter:  32750  inner_iter:  145 
+505m 33s loss_mot_rec: 0.0247 
+epoch:  38 niter:  32800  inner_iter:  195 
+506m 14s loss_mot_rec: 0.0259 
+epoch:  38 niter:  32850  inner_iter:  245 
+506m 54s loss_mot_rec: 0.0251 
+epoch:  38 niter:  32900  inner_iter:  295 
+507m 35s loss_mot_rec: 0.0248 
+epoch:  38 niter:  32950  inner_iter:  345 
+508m 15s loss_mot_rec: 0.0248 
+epoch:  38 niter:  33000  inner_iter:  395 
+508m 56s loss_mot_rec: 0.0260 
+epoch:  38 niter:  33050  inner_iter:  445 
+509m 37s loss_mot_rec: 0.0246 
+epoch:  38 niter:  33100  inner_iter:  495 
+510m 17s loss_mot_rec: 0.0240 
+epoch:  38 niter:  33150  inner_iter:  545 
+510m 58s loss_mot_rec: 0.0266 
+epoch:  38 niter:  33200  inner_iter:  595 
+511m 39s loss_mot_rec: 0.0247 
+epoch:  38 niter:  33250  inner_iter:  645 
+512m 19s loss_mot_rec: 0.0247 
+epoch:  38 niter:  33300  inner_iter:  695 
+513m 0s loss_mot_rec: 0.0249 
+epoch:  38 niter:  33350  inner_iter:  745 
+513m 40s loss_mot_rec: 0.0263 
+epoch:  38 niter:  33400  inner_iter:  795 
+514m 22s loss_mot_rec: 0.0248 
+epoch:  38 niter:  33450  inner_iter:  845 
+515m 5s loss_mot_rec: 0.0253 
+epoch:  39 niter:  33500  inner_iter:   37 
+516m 2s loss_mot_rec: 0.0243 
+epoch:  39 niter:  33550  inner_iter:   87 
+516m 42s loss_mot_rec: 0.0244 
+epoch:  39 niter:  33600  inner_iter:  137 
+517m 23s loss_mot_rec: 0.0250 
+epoch:  39 niter:  33650  inner_iter:  187 
+518m 4s loss_mot_rec: 0.0250 
+epoch:  39 niter:  33700  inner_iter:  237 
+518m 44s loss_mot_rec: 0.0248 
+epoch:  39 niter:  33750  inner_iter:  287 
+519m 25s loss_mot_rec: 0.0241 
+epoch:  39 niter:  33800  inner_iter:  337 
+520m 6s loss_mot_rec: 0.0244 
+epoch:  39 niter:  33850  inner_iter:  387 
+520m 47s loss_mot_rec: 0.0254 
+epoch:  39 niter:  33900  inner_iter:  437 
+521m 27s loss_mot_rec: 0.0253 
+epoch:  39 niter:  33950  inner_iter:  487 
+522m 8s loss_mot_rec: 0.0248 
+epoch:  39 niter:  34000  inner_iter:  537 
+522m 48s loss_mot_rec: 0.0236 
+epoch:  39 niter:  34050  inner_iter:  587 
+523m 29s loss_mot_rec: 0.0248 
+epoch:  39 niter:  34100  inner_iter:  637 
+524m 10s loss_mot_rec: 0.0257 
+epoch:  39 niter:  34150  inner_iter:  687 
+524m 51s loss_mot_rec: 0.0238 
+epoch:  39 niter:  34200  inner_iter:  737 
+525m 31s loss_mot_rec: 0.0239 
+epoch:  39 niter:  34250  inner_iter:  787 
+526m 12s loss_mot_rec: 0.0246 
+epoch:  39 niter:  34300  inner_iter:  837 
+526m 53s loss_mot_rec: 0.0252 
+epoch:  40 niter:  34350  inner_iter:   29 
+527m 50s loss_mot_rec: 0.0255 
+epoch:  40 niter:  34400  inner_iter:   79 
+528m 31s loss_mot_rec: 0.0245 
+epoch:  40 niter:  34450  inner_iter:  129 
+529m 11s loss_mot_rec: 0.0226 
+epoch:  40 niter:  34500  inner_iter:  179 
+529m 52s loss_mot_rec: 0.0233 
+epoch:  40 niter:  34550  inner_iter:  229 
+530m 32s loss_mot_rec: 0.0261 
+epoch:  40 niter:  34600  inner_iter:  279 
+531m 13s loss_mot_rec: 0.0245 
+epoch:  40 niter:  34650  inner_iter:  329 
+531m 54s loss_mot_rec: 0.0251 
+epoch:  40 niter:  34700  inner_iter:  379 
+532m 34s loss_mot_rec: 0.0248 
+epoch:  40 niter:  34750  inner_iter:  429 
+533m 15s loss_mot_rec: 0.0251 
+epoch:  40 niter:  34800  inner_iter:  479 
+533m 56s loss_mot_rec: 0.0226 
+epoch:  40 niter:  34850  inner_iter:  529 
+534m 36s loss_mot_rec: 0.0248 
+epoch:  40 niter:  34900  inner_iter:  579 
+535m 17s loss_mot_rec: 0.0244 
+epoch:  40 niter:  34950  inner_iter:  629 
+535m 57s loss_mot_rec: 0.0244 
+epoch:  40 niter:  35000  inner_iter:  679 
+536m 38s loss_mot_rec: 0.0250 
+epoch:  40 niter:  35050  inner_iter:  729 
+537m 19s loss_mot_rec: 0.0237 
+epoch:  40 niter:  35100  inner_iter:  779 
+537m 59s loss_mot_rec: 0.0257 
+epoch:  40 niter:  35150  inner_iter:  829 
+538m 40s loss_mot_rec: 0.0256 
+epoch:  41 niter:  35200  inner_iter:   21 
+539m 43s loss_mot_rec: 0.0244 
+epoch:  41 niter:  35250  inner_iter:   71 
+540m 25s loss_mot_rec: 0.0236 
+epoch:  41 niter:  35300  inner_iter:  121 
+541m 6s loss_mot_rec: 0.0256 
+epoch:  41 niter:  35350  inner_iter:  171 
+541m 47s loss_mot_rec: 0.0253 
+epoch:  41 niter:  35400  inner_iter:  221 
+542m 27s loss_mot_rec: 0.0235 
+epoch:  41 niter:  35450  inner_iter:  271 
+543m 8s loss_mot_rec: 0.0253 
+epoch:  41 niter:  35500  inner_iter:  321 
+543m 49s loss_mot_rec: 0.0235 
+epoch:  41 niter:  35550  inner_iter:  371 
+544m 29s loss_mot_rec: 0.0238 
+epoch:  41 niter:  35600  inner_iter:  421 
+545m 10s loss_mot_rec: 0.0239 
+epoch:  41 niter:  35650  inner_iter:  471 
+545m 51s loss_mot_rec: 0.0251 
+epoch:  41 niter:  35700  inner_iter:  521 
+546m 31s loss_mot_rec: 0.0243 
+epoch:  41 niter:  35750  inner_iter:  571 
+547m 12s loss_mot_rec: 0.0228 
+epoch:  41 niter:  35800  inner_iter:  621 
+547m 53s loss_mot_rec: 0.0253 
+epoch:  41 niter:  35850  inner_iter:  671 
+548m 33s loss_mot_rec: 0.0250 
+epoch:  41 niter:  35900  inner_iter:  721 
+549m 14s loss_mot_rec: 0.0243 
+epoch:  41 niter:  35950  inner_iter:  771 
+549m 54s loss_mot_rec: 0.0242 
+epoch:  41 niter:  36000  inner_iter:  821 
+550m 35s loss_mot_rec: 0.0241 
+epoch:  42 niter:  36050  inner_iter:   13 
+551m 32s loss_mot_rec: 0.0240 
+epoch:  42 niter:  36100  inner_iter:   63 
+552m 12s loss_mot_rec: 0.0242 
+epoch:  42 niter:  36150  inner_iter:  113 
+552m 53s loss_mot_rec: 0.0237 
+epoch:  42 niter:  36200  inner_iter:  163 
+553m 34s loss_mot_rec: 0.0245 
+epoch:  42 niter:  36250  inner_iter:  213 
+554m 16s loss_mot_rec: 0.0241 
+epoch:  42 niter:  36300  inner_iter:  263 
+554m 57s loss_mot_rec: 0.0242 
+epoch:  42 niter:  36350  inner_iter:  313 
+555m 37s loss_mot_rec: 0.0252 
+epoch:  42 niter:  36400  inner_iter:  363 
+556m 18s loss_mot_rec: 0.0242 
+epoch:  42 niter:  36450  inner_iter:  413 
+556m 59s loss_mot_rec: 0.0242 
+epoch:  42 niter:  36500  inner_iter:  463 
+557m 39s loss_mot_rec: 0.0234 
+epoch:  42 niter:  36550  inner_iter:  513 
+558m 19s loss_mot_rec: 0.0241 
+epoch:  42 niter:  36600  inner_iter:  563 
+559m 0s loss_mot_rec: 0.0238 
+epoch:  42 niter:  36650  inner_iter:  613 
+559m 40s loss_mot_rec: 0.0234 
+epoch:  42 niter:  36700  inner_iter:  663 
+560m 21s loss_mot_rec: 0.0240 
+epoch:  42 niter:  36750  inner_iter:  713 
+561m 1s loss_mot_rec: 0.0260 
+epoch:  42 niter:  36800  inner_iter:  763 
+561m 42s loss_mot_rec: 0.0237 
+epoch:  42 niter:  36850  inner_iter:  813 
+562m 22s loss_mot_rec: 0.0245 
+epoch:  43 niter:  36900  inner_iter:    5 
+563m 20s loss_mot_rec: 0.0236 
+epoch:  43 niter:  36950  inner_iter:   55 
+564m 1s loss_mot_rec: 0.0241 
+epoch:  43 niter:  37000  inner_iter:  105 
+564m 41s loss_mot_rec: 0.0231 
+epoch:  43 niter:  37050  inner_iter:  155 
+565m 22s loss_mot_rec: 0.0243 
+epoch:  43 niter:  37100  inner_iter:  205 
+566m 2s loss_mot_rec: 0.0242 
+epoch:  43 niter:  37150  inner_iter:  255 
+566m 42s loss_mot_rec: 0.0233 
+epoch:  43 niter:  37200  inner_iter:  305 
+567m 23s loss_mot_rec: 0.0251 
+epoch:  43 niter:  37250  inner_iter:  355 
+568m 3s loss_mot_rec: 0.0249 
+epoch:  43 niter:  37300  inner_iter:  405 
+568m 44s loss_mot_rec: 0.0243 
+epoch:  43 niter:  37350  inner_iter:  455 
+569m 24s loss_mot_rec: 0.0248 
+epoch:  43 niter:  37400  inner_iter:  505 
+570m 5s loss_mot_rec: 0.0236 
+epoch:  43 niter:  37450  inner_iter:  555 
+570m 45s loss_mot_rec: 0.0248 
+epoch:  43 niter:  37500  inner_iter:  605 
+571m 26s loss_mot_rec: 0.0234 
+epoch:  43 niter:  37550  inner_iter:  655 
+572m 6s loss_mot_rec: 0.0232 
+epoch:  43 niter:  37600  inner_iter:  705 
+572m 47s loss_mot_rec: 0.0234 
+epoch:  43 niter:  37650  inner_iter:  755 
+573m 27s loss_mot_rec: 0.0262 
+epoch:  43 niter:  37700  inner_iter:  805 
+574m 8s loss_mot_rec: 0.0243 
+epoch:  43 niter:  37750  inner_iter:  855 
+574m 48s loss_mot_rec: 0.0248 
+epoch:  44 niter:  37800  inner_iter:   47 
+575m 45s loss_mot_rec: 0.0242 
+epoch:  44 niter:  37850  inner_iter:   97 
+576m 26s loss_mot_rec: 0.0250 
+epoch:  44 niter:  37900  inner_iter:  147 
+577m 6s loss_mot_rec: 0.0245 
+epoch:  44 niter:  37950  inner_iter:  197 
+577m 47s loss_mot_rec: 0.0235 
+epoch:  44 niter:  38000  inner_iter:  247 
+578m 27s loss_mot_rec: 0.0232 
+epoch:  44 niter:  38050  inner_iter:  297 
+579m 8s loss_mot_rec: 0.0259 
+epoch:  44 niter:  38100  inner_iter:  347 
+579m 49s loss_mot_rec: 0.0246 
+epoch:  44 niter:  38150  inner_iter:  397 
+580m 29s loss_mot_rec: 0.0241 
+epoch:  44 niter:  38200  inner_iter:  447 
+581m 10s loss_mot_rec: 0.0253 
+epoch:  44 niter:  38250  inner_iter:  497 
+581m 51s loss_mot_rec: 0.0224 
+epoch:  44 niter:  38300  inner_iter:  547 
+582m 33s loss_mot_rec: 0.0228 
+epoch:  44 niter:  38350  inner_iter:  597 
+583m 13s loss_mot_rec: 0.0245 
+epoch:  44 niter:  38400  inner_iter:  647 
+583m 54s loss_mot_rec: 0.0237 
+epoch:  44 niter:  38450  inner_iter:  697 
+584m 35s loss_mot_rec: 0.0233 
+epoch:  44 niter:  38500  inner_iter:  747 
+585m 15s loss_mot_rec: 0.0246 
+epoch:  44 niter:  38550  inner_iter:  797 
+585m 56s loss_mot_rec: 0.0221 
+epoch:  44 niter:  38600  inner_iter:  847 
+586m 36s loss_mot_rec: 0.0234 
+epoch:  45 niter:  38650  inner_iter:   39 
+587m 33s loss_mot_rec: 0.0233 
+epoch:  45 niter:  38700  inner_iter:   89 
+588m 14s loss_mot_rec: 0.0246 
+epoch:  45 niter:  38750  inner_iter:  139 
+588m 54s loss_mot_rec: 0.0235 
+epoch:  45 niter:  38800  inner_iter:  189 
+589m 35s loss_mot_rec: 0.0236 
+epoch:  45 niter:  38850  inner_iter:  239 
+590m 16s loss_mot_rec: 0.0236 
+epoch:  45 niter:  38900  inner_iter:  289 
+590m 56s loss_mot_rec: 0.0236 
+epoch:  45 niter:  38950  inner_iter:  339 
+591m 37s loss_mot_rec: 0.0236 
+epoch:  45 niter:  39000  inner_iter:  389 
+592m 17s loss_mot_rec: 0.0229 
+epoch:  45 niter:  39050  inner_iter:  439 
+592m 58s loss_mot_rec: 0.0239 
+epoch:  45 niter:  39100  inner_iter:  489 
+593m 38s loss_mot_rec: 0.0239 
+epoch:  45 niter:  39150  inner_iter:  539 
+594m 19s loss_mot_rec: 0.0242 
+epoch:  45 niter:  39200  inner_iter:  589 
+594m 59s loss_mot_rec: 0.0233 
+epoch:  45 niter:  39250  inner_iter:  639 
+595m 40s loss_mot_rec: 0.0245 
+epoch:  45 niter:  39300  inner_iter:  689 
+596m 22s loss_mot_rec: 0.0236 
+epoch:  45 niter:  39350  inner_iter:  739 
+597m 5s loss_mot_rec: 0.0243 
+epoch:  45 niter:  39400  inner_iter:  789 
+597m 46s loss_mot_rec: 0.0228 
+epoch:  45 niter:  39450  inner_iter:  839 
+598m 27s loss_mot_rec: 0.0228 
+epoch:  46 niter:  39500  inner_iter:   31 
+599m 27s loss_mot_rec: 0.0231 
+epoch:  46 niter:  39550  inner_iter:   81 
+600m 7s loss_mot_rec: 0.0225 
+epoch:  46 niter:  39600  inner_iter:  131 
+600m 48s loss_mot_rec: 0.0230 
+epoch:  46 niter:  39650  inner_iter:  181 
+601m 28s loss_mot_rec: 0.0229 
+epoch:  46 niter:  39700  inner_iter:  231 
+602m 9s loss_mot_rec: 0.0234 
+epoch:  46 niter:  39750  inner_iter:  281 
+602m 49s loss_mot_rec: 0.0249 
+epoch:  46 niter:  39800  inner_iter:  331 
+603m 30s loss_mot_rec: 0.0227 
+epoch:  46 niter:  39850  inner_iter:  381 
+604m 10s loss_mot_rec: 0.0226 
+epoch:  46 niter:  39900  inner_iter:  431 
+604m 52s loss_mot_rec: 0.0229 
+epoch:  46 niter:  39950  inner_iter:  481 
+605m 34s loss_mot_rec: 0.0238 
+epoch:  46 niter:  40000  inner_iter:  531 
+606m 14s loss_mot_rec: 0.0230 
+epoch:  46 niter:  40050  inner_iter:  581 
+606m 55s loss_mot_rec: 0.0231 
+epoch:  46 niter:  40100  inner_iter:  631 
+607m 35s loss_mot_rec: 0.0231 
+epoch:  46 niter:  40150  inner_iter:  681 
+608m 16s loss_mot_rec: 0.0224 
+epoch:  46 niter:  40200  inner_iter:  731 
+608m 57s loss_mot_rec: 0.0234 
+epoch:  46 niter:  40250  inner_iter:  781 
+609m 37s loss_mot_rec: 0.0245 
+epoch:  46 niter:  40300  inner_iter:  831 
+610m 18s loss_mot_rec: 0.0241 
+epoch:  47 niter:  40350  inner_iter:   23 
+611m 15s loss_mot_rec: 0.0244 
+epoch:  47 niter:  40400  inner_iter:   73 
+611m 56s loss_mot_rec: 0.0241 
+epoch:  47 niter:  40450  inner_iter:  123 
+612m 36s loss_mot_rec: 0.0229 
+epoch:  47 niter:  40500  inner_iter:  173 
+613m 17s loss_mot_rec: 0.0233 
+epoch:  47 niter:  40550  inner_iter:  223 
+613m 58s loss_mot_rec: 0.0232 
+epoch:  47 niter:  40600  inner_iter:  273 
+614m 39s loss_mot_rec: 0.0230 
+epoch:  47 niter:  40650  inner_iter:  323 
+615m 21s loss_mot_rec: 0.0222 
+epoch:  47 niter:  40700  inner_iter:  373 
+616m 2s loss_mot_rec: 0.0225 
+epoch:  47 niter:  40750  inner_iter:  423 
+616m 42s loss_mot_rec: 0.0236 
+epoch:  47 niter:  40800  inner_iter:  473 
+617m 23s loss_mot_rec: 0.0244 
+epoch:  47 niter:  40850  inner_iter:  523 
+618m 3s loss_mot_rec: 0.0214 
+epoch:  47 niter:  40900  inner_iter:  573 
+618m 43s loss_mot_rec: 0.0229 
+epoch:  47 niter:  40950  inner_iter:  623 
+619m 24s loss_mot_rec: 0.0227 
+epoch:  47 niter:  41000  inner_iter:  673 
+620m 5s loss_mot_rec: 0.0245 
+epoch:  47 niter:  41050  inner_iter:  723 
+620m 45s loss_mot_rec: 0.0227 
+epoch:  47 niter:  41100  inner_iter:  773 
+621m 26s loss_mot_rec: 0.0223 
+epoch:  47 niter:  41150  inner_iter:  823 
+622m 6s loss_mot_rec: 0.0244 
+epoch:  48 niter:  41200  inner_iter:   15 
+623m 3s loss_mot_rec: 0.0226 
+epoch:  48 niter:  41250  inner_iter:   65 
+623m 44s loss_mot_rec: 0.0231 
+epoch:  48 niter:  41300  inner_iter:  115 
+624m 24s loss_mot_rec: 0.0235 
+epoch:  48 niter:  41350  inner_iter:  165 
+625m 5s loss_mot_rec: 0.0228 
+epoch:  48 niter:  41400  inner_iter:  215 
+625m 46s loss_mot_rec: 0.0221 
+epoch:  48 niter:  41450  inner_iter:  265 
+626m 26s loss_mot_rec: 0.0230 
+epoch:  48 niter:  41500  inner_iter:  315 
+627m 8s loss_mot_rec: 0.0221 
+epoch:  48 niter:  41550  inner_iter:  365 
+627m 59s loss_mot_rec: 0.0221 
+epoch:  48 niter:  41600  inner_iter:  415 
+628m 55s loss_mot_rec: 0.0222 
+epoch:  48 niter:  41650  inner_iter:  465 
+629m 53s loss_mot_rec: 0.0239 
+epoch:  48 niter:  41700  inner_iter:  515 
+630m 51s loss_mot_rec: 0.0220 
+epoch:  48 niter:  41750  inner_iter:  565 
+631m 47s loss_mot_rec: 0.0247 
+epoch:  48 niter:  41800  inner_iter:  615 
+632m 43s loss_mot_rec: 0.0230 
+epoch:  48 niter:  41850  inner_iter:  665 
+633m 39s loss_mot_rec: 0.0227 
+epoch:  48 niter:  41900  inner_iter:  715 
+634m 36s loss_mot_rec: 0.0227 
+epoch:  48 niter:  41950  inner_iter:  765 
+635m 34s loss_mot_rec: 0.0236 
+epoch:  48 niter:  42000  inner_iter:  815 
+636m 29s loss_mot_rec: 0.0234 
+epoch:  49 niter:  42050  inner_iter:    7 
+637m 42s loss_mot_rec: 0.0227 
+epoch:  49 niter:  42100  inner_iter:   57 
+638m 40s loss_mot_rec: 0.0235 
+epoch:  49 niter:  42150  inner_iter:  107 
+639m 40s loss_mot_rec: 0.0233 
+epoch:  49 niter:  42200  inner_iter:  157 
+640m 34s loss_mot_rec: 0.0227 
+epoch:  49 niter:  42250  inner_iter:  207 
+641m 33s loss_mot_rec: 0.0229 
+epoch:  49 niter:  42300  inner_iter:  257 
+642m 29s loss_mot_rec: 0.0229 
+epoch:  49 niter:  42350  inner_iter:  307 
+643m 27s loss_mot_rec: 0.0229 
+epoch:  49 niter:  42400  inner_iter:  357 
+644m 23s loss_mot_rec: 0.0229 
+epoch:  49 niter:  42450  inner_iter:  407 
+645m 19s loss_mot_rec: 0.0235 
+epoch:  49 niter:  42500  inner_iter:  457 
+646m 17s loss_mot_rec: 0.0226 
+epoch:  49 niter:  42550  inner_iter:  507 
+647m 16s loss_mot_rec: 0.0217 
+epoch:  49 niter:  42600  inner_iter:  557 
+648m 13s loss_mot_rec: 0.0215 
+epoch:  49 niter:  42650  inner_iter:  607 
+649m 10s loss_mot_rec: 0.0222 
+epoch:  49 niter:  42700  inner_iter:  657 
+650m 10s loss_mot_rec: 0.0246 
+epoch:  49 niter:  42750  inner_iter:  707 
+651m 7s loss_mot_rec: 0.0220 
+epoch:  49 niter:  42800  inner_iter:  757 
+652m 6s loss_mot_rec: 0.0228 
+epoch:  49 niter:  42850  inner_iter:  807 
+653m 4s loss_mot_rec: 0.0220 
+epoch:  49 niter:  42900  inner_iter:  857 
+653m 59s loss_mot_rec: 0.0243 
