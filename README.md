@@ -138,12 +138,63 @@ MLLM-Motion/
 
 ## Model Architecture 🧠
 
-The model is based on the NextGPT architecture with the following key components:
+<div align="center">
+  <img src="image/nextgpt-roman2.png" alt="Three-Phase Architecture" width="800"/>
+  <br>
+  <em>Three-Phase Training Architecture of MLLM-Motion</em>
+</div>
 
-- Transformer-based language model
-- Multimodal encoders for different media types
-- Custom diffusion models for generation
-- Q-Former for cross-modal understanding
+The framework consists of three key training phases:
+
+1. **Phase 1**: Denoising Diffusion Motion Generation (DDMG) module maps text descriptions to initial motion representations
+2. **Phase 2**: Motion Decoding Alignment (MDA) module refines motion representations within the motion domain
+3. **Phase 3**: Fusion Module (FM) integrates motion features to enhance coherence and realism
+
+<div align="center">
+  <img src="image/overall_method_new.png" alt="Detailed Architecture" width="800"/>
+  <br>
+  <em>Detailed Architecture of the Motion Generation Pipeline</em>
+</div>
+
+The model leverages:
+
+- Transformer-based language model for text understanding
+- ImageBind for multimodal encoding
+- Custom diffusion models for high-quality motion generation
+- MoE-based Fusion Module for feature integration
+- Motion conversion for robot deployment
+
+## Performance Metrics 📊
+
+Our model achieves strong performance across various metrics on the HumanML3D dataset:
+
+### Main Results
+
+<div align="center">
+
+| Metric              | Score |
+| ------------------- | ----- |
+| R-Precision (Top-1) | 0.387 |
+| R-Precision (Top-2) | 0.568 |
+| R-Precision (Top-3) | 0.678 |
+| FID                 | 2.411 |
+| MultiModal Distance | 2.963 |
+| Diversity           | 7.725 |
+| MultiModality       | 2.963 |
+| APE                 | 0.576 |
+| Velocity            | 0.012 |
+| Jerk                | 0.005 |
+
+</div>
+
+### Key Findings:
+
+- **Best Configuration**: 8 experts with top-k=2 in the Fusion Module
+- **Signal Tokens**: Optimal performance with 24 tokens
+- **Loss Function**: Best results achieved with Original loss + Out loss combination
+- **Motion Quality**: Low FID (2.411) indicates high-quality motion generation
+- **Semantic Alignment**: Strong R-Precision scores show good text-motion alignment
+- **Motion Smoothness**: Low Velocity (0.012) and Jerk (0.005) values demonstrate smooth, natural motions
 
 ## Model Preparation 🧠
 
