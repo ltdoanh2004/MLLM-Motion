@@ -139,7 +139,7 @@ MLLM-Motion/
 ## Model Architecture 🧠
 
 <div align="center">
-  <img src="image/nextgpt-roman2.png" alt="Three-Phase Architecture" width="800"/>
+  <img src="demo/nextgpt-roman2.png" alt="Three-Phase Architecture" width="800"/>
   <br>
   <em>Three-Phase Training Architecture of MLLM-Motion</em>
 </div>
@@ -151,7 +151,7 @@ The framework consists of three key training phases:
 3. **Phase 3**: Fusion Module (FM) integrates motion features to enhance coherence and realism
 
 <div align="center">
-  <img src="image/overall_method_new.png" alt="Detailed Architecture" width="800"/>
+  <img src="demo/overall_method_new.png" alt="Detailed Architecture" width="800"/>
   <br>
   <em>Detailed Architecture of the Motion Generation Pipeline</em>
 </div>
