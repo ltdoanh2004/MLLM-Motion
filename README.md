@@ -151,7 +151,7 @@ The framework consists of three key training phases:
 3. **Phase 3**: Fusion Module (FM) integrates motion features to enhance coherence and realism
 
 <div align="center">
-  <img src="demo/overview.png" alt="Detailed Architecture" width="800"/>
+  <img src="demo/architecture.png" alt="Detailed Architecture" width="800"/>
   <br>
   <em>Detailed Architecture of the Motion Generation Pipeline</em>
 </div>
