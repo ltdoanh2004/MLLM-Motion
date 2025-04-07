@@ -6,15 +6,45 @@
 
 ## Overview
 
-MLLM-Motion is a multimodal large language model that can generate and understand various forms of media including images, videos, and audio. It's built on top of the NextGPT architecture and provides a user-friendly interface for interacting with the model.
+MLLM-Motion is an advanced multimodal large language model that specializes in generating and understanding human motion sequences. It can create realistic motion animations from text descriptions, process various forms of media including images, videos, and audio, and provide a user-friendly interface for motion generation and control.
 
 ## Features ✨
 
+- **Motion Generation**: Create realistic human motion sequences from text descriptions
 - **Multimodal Understanding**: Process and understand text, images, videos, and audio
 - **Interactive Interface**: User-friendly Gradio-based web interface
 - **Flexible Generation**: Generate various types of media based on user prompts
 - **Advanced Architecture**: Built on state-of-the-art transformer models
 - **Customizable Parameters**: Fine-tune generation parameters for optimal results
+
+## Demo Showcase 🎬
+
+<div align="center">
+  <h3>Motion Generation Examples</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo/dancing.png" alt="Dancing Motion" width="300"/>
+        <br>Dancing Motion
+      </td>
+      <td align="center">
+        <img src="demo/walking.png" alt="Walking Motion" width="300"/>
+        <br>Walking Motion
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="demo/stretching.png" alt="Stretching Motion" width="300"/>
+        <br>Stretching Motion
+      </td>
+      <td align="center">
+        <img src="demo/pickinhup.png" alt="Picking Up Motion" width="300"/>
+        <br>Picking Up Motion
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Installation 🛠️
 
