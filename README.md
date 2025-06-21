@@ -1,8 +1,6 @@
 # MLLM-Motion 🎭
 
-<div align="center">
-  <img src="code/nextgpt.png" alt="MLLM-Motion Demo" width="600"/>
-</div>
+
 
 ## Overview
 
